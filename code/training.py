@@ -292,6 +292,8 @@ def train():
             question = sample['question'].to(device=device)
             label = sample['answer'].to(device=device)
             logits = model(image, question)
+            print(np.size(logits))
+            print(logits)
             loss = criterion(logits, label)
             epoch_loss['train'] += loss.item()
             # backward
@@ -304,12 +306,9 @@ def train():
         for idx, sample in enumerate(dataloader['val']):
             image = sample['image'].to(device=device)
             question = sample['question'].to(device=device)
-            print(question)
             label = sample['answer'].to(device=device)
             with torch.no_grad():
                 logits = model(image, question)
-                print(np.size(logits))
-                print(logits)
                 loss = criterion(logits, label)
             epoch_loss['val'] += loss.item()
         # statistic
