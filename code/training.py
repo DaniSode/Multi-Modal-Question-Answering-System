@@ -76,10 +76,8 @@ class VQADataset(Dataset):
             result = chardet.detect(f.read())
 
         self.input_data =pd.read_csv(os.path.join(input_dir, input_file), encoding=result['encoding'])
-        #print(self.input_data)
         self.qu_vocab = Vocab('preprocessed/vocab/qst_vocabs.txt')
         self.ans_vocab = Vocab('preprocessed/vocab/ann_vocabs.txt')
-        #print(self.ans_vocab.vocab)
         self.max_qu_len = max_qu_len
         self.type=data_type #new
         self.transform = transform
@@ -87,33 +85,20 @@ class VQADataset(Dataset):
         self.length=len(self.input_data)
       
 
-    def __getitem__(self, idx):  #new function
-        
-
+    def __getitem__(self, idx):
         path = (self.input_data.loc[self.input_data['index'] == idx, 'img_path'].values[0])
 
-        #print('path',path)
         img = np.array(Image.open(path).convert('RGB'))
         qu_id = int(self.input_data.loc[self.input_data['index'] == idx, 'qu_id'].values[0])
         qu_tokens =  ast.literal_eval(self.input_data.loc[self.input_data['index'] == idx, 'qu_tokens'].values[0])
         
         qu2idx = np.array([self.qu_vocab.word2idx('<pad>')] * self.max_qu_len)
-        
-        
+
         qu2idx[:len(qu_tokens)] = [self.qu_vocab.word2idx(token) for token in qu_tokens]
         sample = {'image': img, 'question': qu2idx, 'question_id': qu_id}
-        
 
-        #old
-        #print('ans2idx')
-        #for ans in ast.literal_eval(self.input_data.loc[self.input_data['index'] == idx, 'valid_ans'].values[0]):
-            #print('ans44',ans)
-            #print('ans33',self.ans_vocab.word2idx(ans))
         ans2idx = [self.ans_vocab.word2idx(ans) for ans in ast.literal_eval(self.input_data.loc[self.input_data['index'] == idx, 'valid_ans'].values[0])]
-        #print('typeee',type(ans2idx[0]))
-        # First choice or random choice
-        #ans2idx = (ans2idx[0])
-        ans2idx=random.choice(ans2idx)
+        ans2idx = random.choice(ans2idx)
         
         sample['answer'] = (ans2idx)
 
@@ -125,12 +110,9 @@ class VQADataset(Dataset):
        
         
 
-    def __len__(self):  #new function
+    def __len__(self):
 
-        # Extract the 'index' column
         index_column = self.input_data['index']
-
-        # Get the last index in the column
         number = index_column.iloc[-1]
 
         return number
@@ -177,7 +159,6 @@ class Vocab:
         
         self.vocab2idx = {vocab: idx for idx, vocab in enumerate(self.vocab)}
         self.vocab_size = len(self.vocab)
-        #print('vocab_idx',self.vocab )
 
     def load_vocab(self, vocab_file):
 
@@ -190,16 +171,9 @@ class Vocab:
         
 
         if vocab in self.vocab2idx:
-            
-            
-            
-            
             return self.vocab2idx[vocab]
         else:
-            print('gone into ukn')
-            print('this word is not there',vocab)
-
-            return self.vocab2idx['<unk>']  #new
+            return self.vocab2idx['<unk>']
 
     def idx2word(self, idx):
 
@@ -284,8 +258,6 @@ class VQAModel(nn.Module):
 # Training loop
 
 # In[ ]:
-
-
 BATCH_SIZE = 150
 MAX_QU_LEN = 30
 NUM_WORKER = 8
@@ -319,14 +291,8 @@ def train():
             image = sample['image'].to(device=device)
             question = sample['question'].to(device=device)
             label = sample['answer'].to(device=device)
-            
-            
-            
-            
             logits = model(image, question)
-            
             loss = criterion(logits, label)
-            
             epoch_loss['train'] += loss.item()
             # backward
             optimizer.zero_grad()
@@ -336,11 +302,11 @@ def train():
         model.eval()
    
         for idx, sample in enumerate(dataloader['val']):
-            
-
             image = sample['image'].to(device=device)
             question = sample['question'].to(device=device)
+            print(question)
             label = sample['answer'].to(device=device)
+            print(label)
             with torch.no_grad():
                 logits = model(image, question)
                 loss = criterion(logits, label)
@@ -354,11 +320,12 @@ def train():
 
         scheduler.step()
         #early_stop = early_stopping(model, epoch_loss['val'])
+        early_stop = False
         if (epoch+1) % 5 == 0:
             torch.save(model.state_dict(), os.path.join(ckpt_pth, f'model-epoch-{epoch+1}.pth'))
-        #if early_stop:
-         #   print(f'>> Early stop at {epoch+1} epoch')
-          #  break
+        if early_stop:
+            print(f'>> Early stop at {epoch+1} epoch')
+            break
 
     end_time = time.time()
     training_time = end_time - start_time
