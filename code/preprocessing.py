@@ -140,9 +140,9 @@ def preprocessing(image_dir, annotation_dir, question_dir, output_dir, vocab_dir
 
     #np.save(output_dir + '/train.npy', np.array(dataset['train']))
     #np.save(output_dir + '/val.npy', np.array(dataset['val']))
-    with open(output_dir + '/train.json', 'w') as f:
+    with open(output_dir + '/train.json', 'w+') as f:
         json.dump(dataset['train'], f)
-    with open(output_dir + '/val.json', 'w') as f:
+    with open(output_dir + '/val.json', 'w+') as f:
         json.dump(dataset['val'], f)
 
     # Write to excel file
