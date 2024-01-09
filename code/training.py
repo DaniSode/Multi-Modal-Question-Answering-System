@@ -306,9 +306,10 @@ def train():
             question = sample['question'].to(device=device)
             print(question)
             label = sample['answer'].to(device=device)
-            print(label)
             with torch.no_grad():
                 logits = model(image, question)
+                print(np.size(logits))
+                print(logits)
                 loss = criterion(logits, label)
             epoch_loss['val'] += loss.item()
         # statistic
