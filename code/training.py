@@ -71,7 +71,7 @@ log_pth = 'late_fusion/log'
 class VQADataset(Dataset):
 
     def __init__(self, input_dir, input_file,data_type ,max_qu_len = 30, transform = None): #new input
-        print(input_dir, input_file)
+        
         with open(os.path.join(input_dir, input_file), 'rb') as f:
             result = chardet.detect(f.read())
 
@@ -129,7 +129,8 @@ class VQADataset(Dataset):
         
 
     def __len__(self):  #new function
-        #number = self.input_data['index'][-1]
+        number = self.input_data['index'][-1]
+        print(number)
         if self.type=='train':
             number=11999
 
