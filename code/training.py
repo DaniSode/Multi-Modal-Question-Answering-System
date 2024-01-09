@@ -292,7 +292,6 @@ def train():
             question = sample['question'].to(device=device)
             label = sample['answer'].to(device=device)
             logits = model(image, question)
-            print(np.shape(logits))
             print(tf.shape(logits))
             print(logits)
             loss = criterion(logits, label)
