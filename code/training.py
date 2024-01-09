@@ -111,8 +111,9 @@ class VQADataset(Dataset):
             #print('ans33',self.ans_vocab.word2idx(ans))
         ans2idx = [self.ans_vocab.word2idx(ans) for ans in ast.literal_eval(self.input_data.loc[self.input_data['index'] == idx, 'valid_ans'].values[0])]
         #print('typeee',type(ans2idx[0]))
-        ans2idx = (ans2idx[0])
-        #ans2idx=random.choice(ans2idx)
+        # First choice or random choice
+        #ans2idx = (ans2idx[0])
+        ans2idx=random.choice(ans2idx)
         
         sample['answer'] = (ans2idx)
 
@@ -129,7 +130,12 @@ class VQADataset(Dataset):
         
 
     def __len__(self):  #new function
-        number = self.input_data['index'][-1]
+
+        # Extract the 'index' column
+        index_column = self.input_data['index']
+
+        # Get the last index in the column
+        number = index_column.iloc[-1]
         print(number)
         if self.type=='train':
             number=11999
