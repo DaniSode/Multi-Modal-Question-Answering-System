@@ -119,10 +119,6 @@ class VQADataset(Dataset):
 
         if self.transform:
             sample['image'] = self.transform(sample['image'])
-            
-            
-
-   
 
         return sample
         
@@ -136,14 +132,6 @@ class VQADataset(Dataset):
 
         # Get the last index in the column
         number = index_column.iloc[-1]
-        print(number)
-        if self.type=='train':
-            number=11999
-
-        if self.type=='val':
-            number=5999
-
-
 
         return number
 
