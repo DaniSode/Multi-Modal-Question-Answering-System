@@ -131,7 +131,7 @@ class VQADataset(Dataset):
         index_column = self.input_data['index']
 
         # Get the last index in the column
-        number = index_column.iloc[-1]
+        number = int(index_column.iloc[-1])
 
         return number
 
