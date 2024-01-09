@@ -94,7 +94,7 @@ def preprocessing(image_dir, annotation_dir, question_dir, output_dir, vocab_dir
         match_top_ans.unk_ans = 0
         num = 0
         for idx, qu in enumerate(questions):
-            if (idx+1) % 1500 == 0:
+            if (idx+1) % 5000 == 0:
                 print(f'Processing {datatype} data: {idx+1}/{len(questions)}')
             qu_id = qu['question_id']
             qu_sentence = qu['question']
