@@ -286,16 +286,13 @@ class VQAModel(nn.Module):
 # In[ ]:
 
 
-#BATCH_SIZE = 70
-BATCH_SIZE = 70
+BATCH_SIZE = 150
 MAX_QU_LEN = 30
 NUM_WORKER = 8
-FEATURE_SIZE, WORD_EMBED = 512, 150
-#FEATURE_SIZE, WORD_EMBED = 1024, 300
-NUM_HIDDEN, HIDDEN_SIZE = 2, 128
-#NUM_HIDDEN, HIDDEN_SIZE = 2, 512
+FEATURE_SIZE, WORD_EMBED = 1024, 300
+NUM_HIDDEN, HIDDEN_SIZE = 2, 512
 LEARNING_RATE, STEP_SIZE, GAMMA = 0.001, 10, 0.1
-EPOCH = 100
+EPOCH = 50
 
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 
@@ -335,7 +332,6 @@ def train():
             optimizer.zero_grad()
             loss.backward()
             optimizer.step()
-            #ffff
 
         model.eval()
    

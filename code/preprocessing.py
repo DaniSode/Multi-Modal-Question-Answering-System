@@ -63,7 +63,7 @@ out_ann_pth = 'preprocessed/ann'
 out_qst_pth = 'preprocessed/qst'
 ckpt_pth = 'late_fusion/ckpt'
 
-
+# Reprocess everything into files that easily can be read in the training loop
 
 def preprocessing(image_dir, annotation_dir, question_dir, output_dir, vocab_dir):
     
@@ -181,7 +181,6 @@ def excelwriting(json_path, output_dir):
     values = json_data.values()
     keys = json_data.keys()
 
-    #Sorting things out
     Index=json_data.keys()
     indexs=[]
     for i in Index:

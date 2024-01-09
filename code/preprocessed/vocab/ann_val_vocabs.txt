@@ -6,1248 +6,2260 @@ red
 3
 white
 4
-yellow
 blue
+yellow
 brown
 dog
 0
-black
-football
-5
 cat
-sitting
+5
+black
 green
+sitting
 gray
+football
+plant
+soccer
 table
 wine
-plant
 nothing
-log
-soccer
-playing
-rug
-bird
-floor
-orange
-girl
-woman
 tan
-bone
-food
-left
-man
-couch
-right
-grass
-pie
-sun
-tree
-watermelon
-bench
-skateboard
-sleeping
-sunny
-slide
+playing
+floor
 boy
-baseball
+woman
+left
+girl
+bird
+log
+couch
+rug
+watermelon
+sleeping
+orange
+right
+pie
+man
 squirrel
-blanket
-apple
-jumping
-frisbee
-jump rope
-yarn
-soccer ball
-sunset
+bench
+baseball
+bone
+tree
+grass
+food
 book
-red and white
-fire
-fireplace
-turtle
+sun
+sunny
+frisbee
+apple
+stool
+monkey bars
+chair
 dancing
-butterfly
+sandbox
+slide
+tv
+jumping
+blanket
+no one
 beehive
+sunset
+yarn
+butterfly
+flowers
+scooter
+standing
+steak
 sand
 mouse
-picture
-tv
-pond
-blocks
-flowers
-sandbox
-raccoon
-park
-monkey bars
-happy
-no one
-on floor
-bike
-standing
-deer
-steak
-eagle
-stool
-7
-logs
-chair
-living room
-toys
-maybe
-fish
-robot
-beige
-eating
-sidewalk
 duck
-basket
-waving
-walking
-old
-checkered
+soccer ball
+bike
+sidewalk
+picture
+raccoon
+red and white
+skateboard
+jump rope
+beige
+park
+fireplace
+logs
+maybe
+on floor
+turtle
+pond
+6
 floral
-plants
-cup
-sky
-on table
-wood
-running
-purple
-scooter
+fire
+deer
+robot
+eagle
+fish
+blocks
+doll
+toys
 8
+old
 ball
-plate
+walking
+7
+on table
+eating
+basket
+happy
+running
+living room
+purple
+cup
+moon
+ribs
+pink
 teddy bear
 ground
 pigtails
-6
-pink
-on rug
-doll
-bread
-mushrooms
-on couch
-marshmallows
-moon
-water
-sliding
-ribs
-tea
-gold
-flower
-on grass
-chihuahua
-under table
-closed
-coat rack
-open
-pillow
-painting
-bicycle
-seesaw
-butterflies
-dollhouse
-middle
-legos
-bees
-bucket
-bed
-on blanket
-baby
-tea set
-female
-in pond
-rabbit
-bush
-day
-cloud
-laughing
-grill
-frog
-marshmallow
-nobody
-11
-male
-mantle
-bottle
-pizza
-outside
-squirrels
-nest
-black and white
-birds
-window
-bear
-ducks
-pug
-cheese
-mushroom
-carpet
-on ground
-in sky
-car
-mother
-daytime
-roasting marshmallows
-picnic basket
-tongs
-meat
-owl
-in fireplace
-chairs
-triangle
-cloudy
-partly cloudy
-lady
-sofa
-in tree
-portrait
-wine glass
-watching tv
-tablecloth
-jumping rope
-toy
-off
-see saw
-bee
-in sandbox
-pine
-abcd
-bat
-shovel
-picnic
-blonde
-on right
-relaxing
-in air
-young
-y
-pail
-chipmunk
-rose
-reading
+sky
 curtains
-puppy
-ponytail
-rocks
-younger
-pictures
-glass
-orange and white
-ball of yarn
-10
-cake
+wood
+bush
+painting
+on rug
+day
+baby
+on couch
+watching tv
+marshmallows
+pizza
+nobody
+plants
+coat rack
+water
+gold
+waving
+on blanket
+flower
+laughing
+mushrooms
+cloud
+bucket
+tongs
+checkered
+bees
+window
+sliding
+bicycle
+bread
+tea
+on grass
+marshmallow
+grill
+tea set
+mushroom
+apples
+sofa
+mantle
+picnic
+dollhouse
+butterflies
+ducks
+picnic basket
+bottle
+pillow
 wall
-resting
-winter
-petting
-summer
-grandma
-little girl
-bushes
+meat
+shelf
+car
+11
+female
+rabbit
+birds
+middle
+plate
+cheese
+in pond
+closed
+triangle
+reading
+wine glass
+tablecloth
+chipmunk
+lady
+bear
+under table
+grilling
+daytime
+salad
+none
+sandwich
+black and white
+corn
+in sandbox
+outside
+jumping rope
+legos
+books
+ponytail
+shovel
+relaxing
+glass
+rocks
+hot dog
+carpet
+owl
+on ground
+bed
+toy
 steaks
-front
+resting
+hamburger
+flying
+chihuahua
+koi
+seesaw
+bee
+child
+clouds
+rose
+10
+cloudy
+fall
+on stool
+open
+in tree
+wine bottle
+nest
+male
+blonde
+in sky
+empty
+summer
+playing with dog
+16
+pug
+pictures
+chairs
+pine
 on chair
-cd
+moped
+frog
+hide and seek
+old man
+grandma
 maroon
 hamburgers
-rocking horse
-sandwich
-noon
-behind tree
-apples
-picnic blanket
-on wall
-lily pad
-coffee table
-rat
-daisy
-none
-9
-dogs
-home
-wine bottle
-on sidewalk
-afternoon
-air
-ottoman
-dinner
-baseball bat
-dining room
-leaves
-clear
-a
-plate of food
-sunrise
-clouds
-potted plant
-child
-kitten
-evening
-moped
-hamburger
-empty
-door
-salad
-having picnic
-can
-cotton
-mice
-green and yellow
-eat
-behind bench
-nowhere
-burgers
-hide and seek
-watching
-silver
-on
-small
-on left
-possibly
-playing with dog
+bushes
 television
-soda
-catch
-shelf
-cold
-begging
-on stool
-footstool
-white and black
-under
-mallard
+pail
+rectangle
+partly cloudy
+evening
+on left
+abcd
+sunrise
+rocking horse
+bat
+9
+picnic blanket
+on right
+door
+on log
+winter
+burgers
+nowhere
+tired
+having picnic
+on sidewalk
+petting
+dining room
+ball of yarn
 not sure
-climbing
-coat hanger
-old man
-playing on monkey bars
+bookshelf
+in fireplace
+afternoon
+rat
+unknown
+puppy
+12
+mother
+squirrels
+clear
+ottoman
+roasting marshmallows
+small
+can
+hot dogs
+talking
+18
+coffee table
+see saw
+paintings
+arm
+begging
+lily pad
+kitten
+in air
+both
+drinking
+catch
+eat
 braids
+dinner
+train
+noon
+on
+on wall
+curtain
 yellow and white
-red and yellow
-oval
-jumping on couch
-animals
-checkerboard
-hungry
-b
-modern
+kid
+home
+portrait
+soda
+knife
+little girl
+white and black
+laying down
+silver
+people
 fringe
-kneeling
+cake
+footstool
 drink
+in grass
+red and gray
+right side
+dogs
+turtles
+square
+stools
+bookcase
+off
+air
+sandwiches
+no idea
+red and yellow
+fun
+y
+hand
+on shelf
+pigeon
+pet bed
+possibly
+grandmother
+on mantle
+lap
+green and yellow
+cooking
+lot
+plate of food
+stretching
+young
+dolls
+kicking
+daisy
+dessert
+on bench
+sad
+light brown
+lab
+14
+orange and white
+boys
+coat hanger
+on picnic blanket
+watching
+petting cat
+stuffed animal
+under window
+wine glasses
+controller
+video game
+playing on monkey bars
+playing with cat
+jumping on couch
+petting it
+behind tree
+baseball and bat
+july
+petting dog
+on sofa
+evergreen
+horse
+hungry
+by pond
+behind cloud
+goose
+bones
+on fireplace
+front
+night
+hands
+animals
+hiding
+mice
+younger
+d
+potted plant
+one on right
+in park
+hive
+warm
+skateboarding
+baseball bat
+play
+exercising
+picnicking
+throwing ball
+kitchen
+pepperoni
+burgundy
+climbing
+very
+asleep
+family
+playground
+away
+smiling
+burger
+under tree
+tan and white
+daisies
+left side
+dandelion
+cd
+behind couch
+cold
+in living room
+on monkey bars
+to right
+lasagna
+raccoons
+dog bed
+center
+bird nest
+mom
+gone
+bunny
+spring
+by tree
+right one
+pillows
+inside
+cherry
+red and gold
+person
 friends
 ice cream
-dessert
-playing with cat
-petting cat
-fall
-behind
-stuffed animal
+unsure
+fell
+short
+mallard
+15
+to left
+spaghetti
+cats
+robots
+watching television
+trees
+for fun
+holding hands
+roasting marshmallow
+checkerboard
+top
+shining
+scooters
+human
+20
+many
+morning
+under
+rope
 ponytails
-swimming
-goose
-spin the bottle
-right side
-koi
-family
+feeding
+in middle
+checkers
+one on left
+full
+benches
+leaves
+remote
+holding it
+a
+not clear
+white and gray
 chasing mouse
-daisies
-red and gray
-hiding
-hand
-corn
-under window
+grandpa
+behind woman
+decoration
+lunch
+concrete
+bbq
+behind
+game controller
+on carpet
+nuts
+sitting on bench
+golden retriever
+box
+cotton
+kicking it
+behind bench
+reaching
+modern
+hanging
+100
+frogs
+red white
+now
+chicken
+hawk
+laying
+13
+playing soccer
+couple
+on window
+goldfish
+read
+glass of wine
+living
+playing in sandbox
+golden
+in front of couch
+old lady
+dark
+17
+checker
+middle of room
+pugs
+b
+rectangular
+long
+robin
+women
+rust
+standing on hind legs
+kneeling
+playing ball
+brown and white
+by fireplace
+nice
+wild
+cat bed
+computer
+teeter totter
+e
+soon
+against wall
+caucasian
+bottom
+dining
+cloth
+oval
+above fireplace
+by bush
+sunflowers
+t
+up
+playing football
+jump roping
+tea time
+english
+leaning
+wooden
+herself
+footrest
+standing up
+next to pond
+oak
+east
+lying down
+having fun
+bikes
+in bed
+comfortable
+pot
+cream
+glasses
+pull
+cement
+1 hour
+by window
+game console
+riding bike
+on grill
+swimming
+ankles
+neither
+spin the bottle
+to play
+probably
+crossed
+handstand
+barbecue
+on tree
+yoga
+teddy
+duck and fish
+plaid
+house
+bars
+old woman
+setting
+behind bushes
+bucket and shovel
+kickstand
+between windows
+in
+lily pads
+shut
+underhand
+siamese
+50
 real
-skateboarding
-knife
-petting dog
-july
-cherry
+campfire
+forward
+toward
 blankets
 skinny
 x
-roasting marshmallow
-wooden
-in grass
-one on right
-fell
-no idea
-unknown
-bones
-in park
+behind trees
+next to
+lilypad
+not here
+background
+guy
+playing catch
+white and red
+raising them
+in front of fireplace
+abstract
+man and woman
+behind boy
+desk
+landscape
+no dog
+70
+not there
+on seesaw
+bottom right
+fido
+young boy
+males
 chipmunks
-bbq
-evergreen
-night
-tired
-rope
-sunflowers
-on mantle
-bookcase
-controller
-game console
+pest
+napping
+tall
+father and daughter
+nachos
+in front
+reddish brown
+pointing
+red and black
+camera
+twins
+happiness
+sparsely
+shovel and pail
+jungle gym
+love
 granny smith
-lot
-holding hands
+left one
+juggling
+cupcakes
+good
+far right
 cat and dog
-hot dogs
-video game
-grandmother
-dolls
-on log
+throw it
+under bench
+playing in sand
+feline
+crescent
+red and blue
+piano
 stomach
-talking
-grilling
-standing up
-burgundy
-pet bed
-cat bed
-sandwiches
-paintings
+yarn ball
+pants
+sitting on floor
+at home
+red wine
+on bookshelf
+near pond
+mess
+spots
+terrier
+to catch ball
+at park
+leaping
+apple tree
+toy car
+my best guess is yes
+looking
+video games
 cartoons
 girl on right
-lasagna
-raccoons
+next to fireplace
+toy robot
 sliding down
-sad
-trees
-petting it
-playing in sandbox
-caucasian
-neither
-on picnic blanket
-exercising
-old lady
-on fireplace
-play
-checker
+color
+pail and shovel
+pet
+between trees
+red and purple
+west
+mantel
+by couch
+dad
+pie and wine
+park bench
+bare
+koi fish
+near tree
+little boy
+exercise
+in front of window
+flats
+climb tree
+toy train
+boy and dog
+arm of chair
+stapler
+chips
 on rock
-dog bed
-duck and fish
+playing with yarn
+soda can
 girls
-light brown
-turtles
+cheddar
+jump
+white cat
+tables
 rays
+close
+by log
 eat it
-campfire
-pepperoni
+drinking wine
+bottles
+daughter
+gas
+hello
+headstand
 part
 flat screen
-behind trees
-reaching
-women
-on sofa
-pants
-hanging
-on monkey bars
+stand
+playing with dogs
 scratching
-standing on hind legs
-person
-hawk
-abstract
-computer
-behind woman
-desk
-spaghetti
-hive
-on bench
-unsure
-in bed
-morning
-by door
-flying
-fun
-full
-tan and white
-arm
-picnicking
-bird nest
-hands
-tables
-bunny
-in
-baseballs
-toward
-door handle
-rust
-not clear
-red wine
-mess
-terrier
-white and red
-birthday
-laying down
-playing video games
-bikes
-70
-italy
-stretching
-by pond
-stuffed cat
-bob
-glass of wine
-chicken
-on carpet
-white and gray
-bookshelf
-in living room
-disc
-gone
-on tree
-wood and metal
-baseball and bat
-sun and cloud
-jump ropes
-12
-very
-love
-playing football
-throwing ball
+barbecuing
+boy in middle
+softball
+desert
+holding them up
+dark blue
+watching dog
+party
 by man
+kids
+cupcake
+vase
+eggs
+older
+pigeons
+scared
+near window
+barbeque
+woman and girl
+partially
+by door
+stuffed cat
+older one
+fruit
+bob
+white and orange
+ball and bat
+armchair
+back
+girls hand
+dark brown
+american
+1 year
+scissors
+green and brown
+armrest
+boy on right
+video game controller
+pop
+coffee
+behind chair
+next to tree
+potted plants
+odd
+fish and duck
 banana split
 teddy bears
-plaid
-under grill
-by bush
-close
-one on slide
-pugs
-fish and duck
-red and gold
-drinking
-not here
-in bush
-guy
+below
+older woman
+white and brown
+rabbit and dog
+redhead
+shirt
+baseballs
+towards
+diamond
+to drink
+grandparents
+butt
+land
+door handle
+shrub
+fir
+taupe
+sitting in chair
+in chair
+in front of man
+bee nest
+behind bush
+far left
+toast
+siblings
 black white
-13
-party
-teeter totter
-playing catch
-books and plant
-people
-vase
-fido
-bottom
-to left
-under tree
-dining
-watching dog
-white and orange
+es
+sit
+cheering
+today
+partly
+monkey bar
+birthday
+snacks
+sitting down
+sunny and clear
+playing video game
+playing video games
+near fireplace
+woman on right
+spaghetti and meatballs
+dog bone
+jeans
+sundae
+drinks
+in room
+bottle of wine
+on slide
+light blue
+stemmed glasses
+plates
+tray
+wine and cheese
+italy
+motor scooter
+school
+playing with it
+baked
+animal
+no cat
+in window
+enemies
 toasting marshmallows
-golden
-pointing
-by tree
+sandals
+relaxation
+little
+smile
+chips and salsa
+jokes
 sitting on grass
-pillow fight
-in front
-in front of window
-house
-old woman
-lap
-game controller
-right one
-ball and bat
-kitchen
-kickstand
-brown and white
-fishing pole
-one on left
-jump roping
-throwing football
-cupcakes
-paw
-woman and girl
-playing frisbee
-coat
-warm
+lying
+sleep
+next to couch
+against tree
+bat and ball
+game
+playing game
+peanut butter
+stick
+shrubs
+checked
+drunk
+disc
+in front of tree
+white wine
+to eat
+throw
+wood and metal
+opened
+sun and cloud
 climbing tree
+in middle of room
+jump ropes
+to play with
+at table
+under grill
+studying
+mopeds
 blue and red
-bottom right
-white cat
-boy on right
-chasing squirrel
-pillows
-by log
-robin
-holding it
-playing with toys
-red and black
-scooters
+steel
+holding bone
+out
+burn
+soup
 in box
-box
-wine glasses
+one on slide
+floating
+sandboxes
+around boy
+behind slide
+high
+salad and wine
+end table
+juice
+children
+toasting
+on ottoman
+top shelf
+in bush
+dove
+red and white checkered
+young woman
+woman on left
+canary
+sitting on monkey bars
+19
+stones
+lavender
+sunflower
+going down slide
+playing on slide
+birds and butterflies
+tomato
+red book
+fire and logs
+indian
+khaki
+boy and girl
+windows
+geese
+books and plant
+jogging
+no books
+work
+plates of food
+hour
+girl and dog
+life
+under trees
+bored
+sting
+game system
+in center
+by bench
+boy in red
+seated
+blue jay
+by wall
+blue and white
+top right
+light
+bathroom
+firewood
+in front of woman
+in front of girl
+3rd
+older boy
+brass
+beside pond
+in field
+alone
+60
+pillow fight
+there is no dog
+na
+2 people
+watermelon slice
+on footstool
+waiting
+2 feet
+1 foot
+woman in white
+rock
+kicking ball
+boys hand
+bird and nest
+string
+her lap
+hunting
+beer
+behind sofa
+joy
+stripes
+by slide
+flower pot
+fishing pole
+shadow
+dog and cat
+white one
+yesterday
+throwing football
+digging
+mauve
+moving it
+holding
+paw
+flower print
+hot
+playing frisbee
+in his hand
+coat
+comfort
+labrador
+he is happy
+in her lap
+for dinner
+homework
+half
+excited
+pets
+chasing squirrel
+robots and cars
+running away
+line
+shoes
+playing with toys
+dog and squirrel
+man and boy
+soccer and baseball
 eating cheese
+catering
 1 person
 under chair
 cds
 ladies
+orange and black
+christmas
+b c d
 holding cup
-toasting
-to right
-cooking
-barbecuing
-background
-100
-20
-at park
-nice
-dark blue
-raising them
-short
-16
-laying
-behind cloud
-looking
-having fun
-playing video game
+playing with baby
+playing with child
+us
+left of man
+drapes
+bent
+looking for food
+in bushes
+boy on slide
+mutt
+playing baseball
+brother and sister
+on armchair
+remote control
+sparrow
+partly sunny
+pony
+on desk
+red brown
+framed picture
+sitting on sofa
+swinging
+shape
+on tablecloth
+pies
+25
+22
+very happy
+eleven
+playing games
+on woman
+orange and red
+biking
 navy
-spaghetti and meatballs
-decoration
-center
-mom
-toy car
+cups
+cans
+on sandbox
+all
+in picture
+no people
+mexican
+skipping rope
+autumn
+getting up
+tree log
+on see saw
+right bottom
 india
-scared
+fair
+30 minutes
+hassock
+diagonal
 next to sidewalk
-near window
-between trees
-under trees
+on fireplace mantle
+balls
+maple
 in its bed
-baked
+by bike
+playstation
+right of couch
+beside couch
 in front of bench
-by bench
-riding bike
+on top of couch
+back of couch
+day time
+funny
 in grill
-cream
-cats
-fir
-probably
+houseplant
+man in red
+near bush
+right corner
+champagne
 average
-smiling
-jokes
-no dog
-sitting down
+sticks
+near baby
+looking at mouse
+hanging from bars
+my best guess is no
+in front of monkey bars
+in front of sofa
+sunlight
 round
-back
-barbecue
-na
-game
-playing game
-partially
-curtain
-camera
+65
+elderly
+red orange and yellow
+grandfather and grandson
+middle of picture
+burning
+tea tray
+beside tree
+red cup
+stuffed toy
+looking at it
+white with flowers
+stick with marshmallow
+retriever
+next to him
 lonely
-above fireplace
-kid
+climbing monkey bars
+2 plants
 dvd
-shovel and pail
+laying on bench
+weather
+shirt and pants
+across room
 stuffed animals
-lunch
-pop
-dark brown
-living
+arm of couch
+reaching for cat
+notebook
+not in picture
+falling
+puppies
+sunny day
+mug
 woman and cat
+bottom left
+to catch
 wool
+hanging out
+near girl
+in his bed
+in kitchen
+another room
 usa
 united states
+playing hide and seek
+magic
 knitting
-nachos
-bat and ball
+red and brown
+nests
+sleepy
+shovels
+warmth
 cat toy
 for cat
 sitting on table
 on top of chair
+adult
+ni
+sweater
 going down
+in basket
+laces
 hanging on wall
-lilypad
-checkers
-bucket and shovel
-eggs
-by slide
-1 foot
-in front of couch
-green and brown
+on coat rack
+standing on back legs
+bad
+teacup
+21
+in another room
+strawberry
+water plants
+o
+not very
+in ground
+room
+kids and dog
+something funny
 fabric
-at table
-2 people
+catching
+toddler
+holding plate
 video game system
-golden retriever
-stools
+foot rest
+father daughter
 kite
+man and food
+dog and man
 playing with doll
-both
-stripes
-soda can
-running away
-for dinner
+right window
+yellow one
+looking at food
+in line
+playing with girl
+on coffee table
+play with blocks
 1 does
-white and brown
 blue and black
 blue and brown
+tv show
 bee stings
-in front of fireplace
-red and blue
-playing in sand
-on window
+jumping on table
+swatting
+sony
+disk
+no rug
+grandchild
+35
+land dwelling
+next to bush
 football and baseball
-crescent
+bread and cheese
+batting
+older lady
 shirt and shoes
 bike seat
+pick up
 face
+tassels
+on her lap
+in ponytail
+jumping jacks
 parked
 museum
-salad and wine
-yarn ball
+begging for food
+food and drink
 2 women
-orange and black
-at home
-playing with baby
-looking for food
-behind bush
+road
+coat stand
+in background
+on top shelf
+between girls
+dots
 chiwawa
 corgi
-mutt
-es
-desert
-young woman
-woman on left
-holding them up
-red white
-red brown
-lavender
-framed picture
+catch ball
+peekaboo
+30
+white black
+white and purple
+sofa arm
+sun out
 she dropped it
-partly
-sitting on sofa
-video games
-landscape
-next to fireplace
-by fireplace
-on sandbox
-children
-kids
-tree log
+waving them
+truck
+multi
+rainbow
+hanging picture
+fly
+sitting on chair
+sitting by fire
+pyramid
+bicycles
+woman and man
+on branch
+chase
+playing with butterfly
+at dog
+elm
+toys on floor
+watching girl
+boyfriend
+weeds
+fringes
+corner
 walking dog
-on slide
-playground
-us
+fireplace mantle
+family member
+all day
+girl and cat
+apple and wine
 surprise
+right in front
+walkway
+on pavement
 couch and chair
 chair and couch
-by window
-by bike
-away
-sitting on monkey bars
-seated
-against wall
+on brown table
+in sand
+by sidewalk
+fireplace mantel
+by seesaw
+pavement
+next to bench
+mom and daughter
+in cat bed
+top of fireplace
+by bicycle
+riding his bike
+stool and coat rack
+picture frame
+arms
+poodle
+mp
+boy on left
+asphalt
 between people
-pie and wine
+doll house
 no tablecloth
-not there
+she is playing
 anger
-bathroom
+pleasant
+10 feet
+flowery
+dusk
+artwork
+on left side
 large
-looking at mouse
+setting table
+propping them up
+by bushes
+food and drinks
+bottom shelf
+lake
+cartwheel
 sliding down slide
-blue and white
+near sofa
+matches
+woman in red pants
+potatoes
 girl in middle
 middle one
-windows
+feeding him
 sitting in grass
-now
+circle
+behind man
+first
+motorbike
 go down slide
-toast
-in window
-next to couch
-yoga
-stuffed toy
-mantel
-playing with it
+grandfather
+playing with soccer ball
+blue and tan
+roasting it
+by sofa
+next to sofa
+missing
+photo
+kitty
+bat and baseball
+balance
+who knows
+braided
+under desk
+wine bottle and cup
+field
+box full
+blue bird
 no leaves
-watermelon slice
-on ottoman
+next to sandbox
+oak tree
+yellow lab
+nature
+climb
+old man and dog
 bulldog
-happiness
-drunk
-armrest
-reddish brown
+edges
+edge
+dining table
+side
+comedy
+news
+blue screen
+seesawing
+playing with bucket
 hanging from monkey bars
-in middle
+bald eagle
+3 feet
+by dog
+black and blue
+elsewhere
+shelves
+bookshelves
+he is playing
+small table
 crackle
-chips and salsa
-mug
-bottom left
-pet
-boys hand
-string
-rock
-playing with yarn
+to sit
+near log
+hopping
+quarter
+flowered
+bedroom
+crossing
+holding baby
+young girl
+couch arm
+on arm of couch
+turkey
+by boy
+joke
+mountains
 cloud and sun
-bird and nest
-chips
-coffee
+laying on floor
+lilies
 milk
 in dog bed
-napping
+red and orange
+sun and bird
 green and white
-14
-grandpa
-adult
-remote
-dog and cat
-puppies
-cloth
-potted plants
+out in open
+yard
+gray and white
+blue butterfly
+just moved in
+soccer and football
+net
+design
+down
+collie
+under picture
+chasing deer
+birds nest
+2 girls
 dropped steak
-in front of woman
-jump
+front right
+watering plants
+to catch football
+catching ball
+for food
 jump on table
-good
-pail and shovel
+on bike
 walking her dog
-room
-on coat rack
+mirror
+in front of door
+man on right
+pine tree
+window on right
+peach
+toasting marshmallow
+no table
 medium
-not very
 very likely
-sunny and clear
+checks
 brown and green
 paw print
-playstation
-many
-60
-50
+xbox
 part of it
 to pick up dog
-standing on back legs
-catching
-game system
+stop
+sick
+frame
+popcorn
+picnic basket and plates
+toy house
+fern
+chair on right
 coats
-hot
-below
-lab
-oak
+to woman
+grandmother and granddaughter
+monitor
+in lap
+to get food
+waiting for someone
+throwing
+girl put it there
+chasing yarn
+on top of fireplace
+moving
+catch it
+plant and stool
 online
-hot dog
+strangers
 plant and watermelon
 watermelon and plant
 sun cloud
-to eat
 bottle and cup
+stealing food
 steak and corn
+there is none
+boy in red shirt
+he fell
+dog jumping
+petting him
 dinner time
+rising
 very close
-watching television
-balls
+on fireplace mantel
 sunny with clouds
-left one
+mallards
+watching animals
+hot dogs and corn
+couches
+birds and bees
+from cat
+doors
 tvs
-boy on slide
-middle of room
-disk
-older one
-shirt and pants
-bars
-dad
+drinking it
+upset
+n
+leg
+holding ball
 they are hungry
 on hips
-near bush
 above plant
-checked
-comfort
-yellow one
+near bench
+basket and wine
+hitting
+size
+playing in park
+snack
+apple and cup
+hitting ball
 shoes and shirt
 plant and basket
-boys
-no people
-headstand
+riding scooter
+standing on her head
+standing on head
+playing with dollhouse
+ribs and pie
+no giraffe
+sunday
+no slide
 to catch mouse
-lying
-something funny
+holding hamburger
 catching cat
-hour
-grandparents
-couple
-on seesaw
+to catch duck
+stand up
+pulling him down
+blue and orange
 catching boy
+boy in black
+white shirt
+looking at deer
+watching birds
+next to tv
+sitting on scooter
+riding
 not yet
 cubes
-begging for food
-food and drink
 food and wine
 2 windows
-christmas
+with woman
+in hand
 christmas tree
 looks like christmas tree
-shrub
+pork chops
+cuddling
+by rug
+one is
 red brown yellow
-b c d
 abc
-train
 his left
-playing with child
-coat stand
-in background
+in front of guy
+sweets
+cookie
+backwards
+crooked
+middle person
 blank screen
 just sitting
-near pond
-in bushes
-far left
-brother and sister
+no chair
+to support it
+to hold it up
 friend
-remote control
-sparrow
-dove
-red and white checkered
-partly sunny
-frogs
-horse
-cheering
-on desk
-east
-sunflower
+lego
+blue chair
+white and tan
+cook
+turn meat
+raising
+celebrating
+sit down
+younger lady
+it is grass
+rack
+front of pond
+skate
+corn on cob
+his parents left
+no furniture
 sitting on couch
-15
-snacks
-lying down
-fly
-near fireplace
-bicycles
-biking
+ants
+pictures on wall
+sits
+nice day
+eating hot dog
+sunset colors
+hanger
+yawn
+red rose
+melon
+pies and watermelon
+red one
+dictionary
+under stool
+behind old lady
+ice cream sundae
+bees and butterfly
+putting them in air
+volleyball
+treat
+front of fireplace
+on lady
+boy in sandbox
+boy and teddy bear
 movie
+man and girl
+over window
+right woman
+pasta
 grapes
 for decoration
 on tree branch
-dog bone
 fish and turtle
+looking out window
+beside fireplace
+on side
+walls
+left and right
+all of them
+sunny with few clouds
+poor
+dog is funny
 somewhat
 middle window
-toys on floor
-light blue
-autumn
-going down slide
-watching girl
+on bed
+reaching for baby
+coat hook
 standing beside bicycle
 green apple
-weeds
+beside bush
+strings
+sleeping dog
+unhappy
 worried
 worry
 angry
-eleven
+sea saw
+foreground
 fire in fireplace
-playing on slide
-family member
+joe
+man in blue shirt
+sand bucket
+sister
+2 hours
+10 minutes
+apple and glass
 shock
+black and red
 chair and sofa
-diagonal
 45 degree
+next to woman
 near sidewalk
-by sidewalk
 watching it
+between slide and seesaw
+squares
 near wall
+banana
+wine bottle and wine glass
 wine bottle and glass
-end table
 dark red
+girl and woman
+light tan
+off white
+in front of picture
 by painting
-by bicycle
-animal
-west
-behind boy
+eating pie
+visiting
+dish
+to right of couch
 between grill and bench
-riding his bike
-blue jay
+sitting on slide
+pillows and teddy bear
+wicker
+windowsill
+yes is my best guess
+man on left
 bird eggs
-by wall
+sniffing
+near door
 next to door
 in between women
+play with dog
+she is resting
 blue purple red yellow
-my best guess is yes
+above bush
 looking at dog
+piece of pie
+stuffed bear
 sadness
+surprised
 flower pattern
+dachshund
 80
 5pm
+mainly red
 cats knocked them over
-champagne
+red car
 toy truck
-on left side
-koi fish
+to park
+flying in sky
+meat and potatoes
 heavy set
-sticks
+in forest
+marshmallow on stick
+marshmallows on sticks
+resting them
 putting them up
+brown red yellow
 stool and fireplace
+young man
+skateboarder
+boy on skateboard
+light brown and white
+third
 funny joke
-older boy
 other boy
 green apples
-funny
+left of pond
 200
-swinging
-on tablecloth
-potatoes
+150
+next to baby
+girl ball bird
+merlot
+cloud and eagle
+lower right
+front of couch
+yellow cat
 gray dog
+girl with pigtails
 lots of windows
-sunlight
-circle
-first
+recently
+brown and red
+first one
+meal
+logs and fire
 reaching for bone
 slide down
+feeding birds
 right of picture
-red and purple
-blue and tan
+sex
 yellow and blue
+blue can
 on window sill
-photo
+hide and go seek
+roasting
+leaning against tree
 photograph
+over fireplace
+to rest
+dandelions
+warm up
+get warm
+burn himself
 seagull
-balance
 from boys
-braided
-under desk
+front of sofa
+lettuce
+very delicious
 toy cat
-1 year
+wine bottle and picnic basket
+picnic basket and wine
+talking to it
+bottles and cup
 bigger boy
-blue bird
+lots
+cleaning
+toys on rug
+birds and sun
+sun and mountains
+for exercise
 there are no leaves
-next to sandbox
+ballet
+dress shoes
+indian style
+red or black
+beside sandbox
+south
+setter
+trick
+art
+holding his hand
 scenery
-there is no dog
+chasing frisbee
+she is alone
+photographer
+right tree
 calling dog
-side
-jungle gym
+do
+jumping on her
+gray and red
+cartoon
+yellow and red
+red with yellow trim
+black shirt and black pants
+black shirt and pants
+black clothes
+woman and child
+on jungle gym
+1 ft
+4 feet
+next to dog
+near dog
 area
-throw
-behind bushes
-middle of picture
-video game controller
-left side
+gray and black
+your mom
+to right of boy
+arm of sofa
+woman in white shirt
+above television
+tea service
+bookcases
+on his lap
+playing with his dog
+paper
+floral pattern
 under seat
 crackling
-burning
-near log
+soap opera
+midday
 no friends
-alone
-flowered
+25 cents
+on tray
+in girls hand
 pink and white
 playroom
 friendly
+he is having fun
+not pictured
 in boys hand
-in front of tree
+beneath tree
+corn dogs
+thread
 material
-bat and baseball
-truck
+crossing them
+vertical
+it ends there
+planted there
+behind log
+lily
+laying on couch
+praying
+landing
+teapot and cups
+nearby
 on rocks
-goldfish
+because she wants to
 tv screen
+hills
 holding yarn
-park bench
 between stuffed animals
+laughing hard
+raised
+bird nests
+cookies
+in ladies hand
+in her hand
+to keep warm
+hat
+small stool
 kids show
-news
+blue and yellow
 there are no people
+upright
+maroon and brown
 orange and yellow
-laying on floor
 cat was playing with it
-sun and bird
+thongs
+tongues
+right of fireplace
+in open
+watching man
 gray white
-blue butterfly
+snack time
+lunch time
+there are no books
+sitting on rug
+yawning
 holding his nose
+calling cat
+area rug
+sharing pizza
 scratching it
 matches curtains
-net
-jogging
+peek boo
+setting it on table
+towards tv
+soffa
+closet
+it is
 purple and white
 to take nap
-bad
+he is resting
+to catch them
+abstract art
+tea cup
+around tree
 several
+other room
 smelling other dog on her
-in kitchen
-on shelf
-2 girls
+pick him up
+playing fetch with dog
+not in room
+ducks birds
+he is relaxing
+honey
+buckets
+tennis
 dropped
-skipping rope
-to play with
+boy and cat
+dog and child
+left of sandbox
+cushion
+og
+brown and tan
+pizza and salad
+1 day
+water plant
 gingham
 charcoal
-cupcake
+probably not
+he tripped
+catching football
+center of room
+between couches
+romantic
+100 percent
 eat food
 grab food
 push it
 scratch it
+sunshine
+low
+she is pretty
 below window
-girls hand
-on bike
-playing soccer
-catching ball
-window on right
+slim
+not long ago
+wood logs
+front door
+boy in blue
+none present
 not likely
-looking at it
+cream and orange
+under right window
+having tea party
+man and dog
+hungary
+overcast
+mad
 more sky
-taupe
+behind women
 looking at ball
 playing with ball
-corner
-for fun
 knee high
+2 ft
+likely
+each other
 his left arm
-in front of sofa
-checks
-siamese
+relaxing on bench
+out of frame
+near man
+books and apple
+there is mouse
 blue block
 near boy
-xbox
+pinks
+wii
 picking up dog
 to pet dog
 to get dog
 reaching for dog
+coke
+stop at door
+purple and blue
+on arm of sofa
+she is tired
+sunset over ocean
 deer and turtles
-flower print
+yellow book
+father
+she likes it
+in bookshelf
+brown and gray
+next to boy
+basket and plates
 jumping for frisbee
 catching frisbee
-doll house
-toy house
-chair on right
+bag
+in house
+between chairs
+on logs
+toward baby
+maroon and red
 right hand
+on table to right
+on end table
 very hot
+towards lady
+to have picnic
+rabbits
+bunnies
+football and soccer
+resting it
+below it
+grandma and granddaughter
+next to television
+partying
 for dog
-foot rest
+playing with sand
+not portraits
 teapots
-sick
-waiting for someone
-american
-popcorn
+teacups
+in front of dog
+picture of sunset
+left side of room
+catch football
+mice and cheese
+same
+halfway
+robots and blocks
+dog on table
+frosting
+touching it
+touching
+himself
+to keep water in
+keep water in
+bald
+near table
+portrait of woman
+grandma and girl
+boy on monkey bars
+daffodil
+one to right
 no guy
 catch them
 great room
+likes it
+triangular
+trying to get mouse
 get mouse
-t
 v
 sideways
+sort of
+yellow dog
 toward blanket
 2 on each
+on cloth
+hair
 in front of log
-yard
+reading book
+rib
 glass bottle
+aluminum
+walking on sidewalk
+in front of rug
+animals on it
+next to log
+senior citizens
 fat
 chubby
-wine bottle and cup
+bottom left corner
 solid
-down
+tall boy
 warming
-22
-out
-another room
-there is none
+hole
+above man
+by sun
+red shirt
+next to trees
+near trees
 around trees
-near tree
-excited
 one with orange hair
 big
 red haired doll
-asleep
 chasing chipmunk
 chasing
+wine and tongs
+some
+to left of man
+scooter and bicycle
+scooter and bike
 what does lady have
 34
+tape
+12 pm
+squirrel and turtle
+waiving
 raked up
+clear and sunny
+chasing butterfly
+melt
+base
 one in middle
 running from it
+soup and crackers
 sunny and cloudy
-poodle
-to catch ball
+gravity
+in row
 to pick up basket
 missing eye
 watching them
 looking at them
+her grandmother
+table top
+mixed breed
+train and robot
 serving tea
 carrying tea
-on fireplace mantel
+on top of rug
+tv set
+beach
+running to woman
 boy left it there
-lake
+in chairs
+on chairs
+right table
+one in white shirt
+cry
+sitting and thinking
 to get steak
-beer
 blue and gray
-by couch
+fawn
+watching her child
+man is alone
 edge of pond
-spring
+on couches
+nap
+5 feet
+jumping on chair
+they are
+it is red
+daydreaming
+behind duck
+releasing turtle
+putting turtle in pond
 to catch frisbee
 catch frisbee
-dark
+above
 hind legs
-by dog
-jumping on table
+1st
+eat and drink
+date
+lg
 dropped it
+in between windows
+girl with teddy bear
+underneath
+slider
+pail and bat
+bat and bucket
+there is no rug
 girl and ball
-older
+cat watching fish
+picnic cloth
+not far
 cat and woman
 toss ball
 ball toss
 son
-looking at food
-older woman
+swinging on bars
+carefully
+with flowers
 sweat suit
+rita
+wife
 scooter handlebar
+coi
+lid
+handle
 walk
+tree and bike
+beside monkey bars
 on his hips
-next to bush
-girl and dog
+left side picture
+put on chair
 girls and cat
 football baseball
+one in red shirt
 play football
+motorcycle
+golden brown
 under fire
 wood fire
-arm of couch
-quarter
-half
-young boy
-khaki
+size and shape
+on sofa arm
+orange cat
+next to man
+joker
 plant and picnic basket
 no tv
-warmth
-man and boy
 boy and man
+red blue
+away from
 head
 his face
-sitting in chair
-pets
+beside slide
+playing house
 get scratched
-toasting marshmallow
-playing in park
+next to table
+red with gold trim
+lever
+upside down
+lost
+red and silver
+chair arm
+couch and table
+cat and mouse
 gray shirt
+knocking
+going out
+caterer
 there is only 1 person
-tassels
-fringes
+eating alone
+not long
+half hour
+5 minutes
+long time
+on bottom shelf
 girl in white shirt
 eating nut
-handstand
-standing on head
 to blanket
+man in black shirt
 boy with football
 they are not
 catch mouse
-he fell
-65
-in ponytail
+holding burger
+holding food
+trying to get on couch
+dropping it
+there is no boy with black hair
 brown couch
+petting his dog
 sitting on stool
+rd
+1 on right
+bottle and bread
 skipping
+2 years
+new
 afraid
-1 hour
-armchair
-leg
-shoes
+15 feet
 no floor mat
+marshmallow sticks
 in front of bush
 beside man
+squirrel and beehive
 by shrub
-hanging picture
+race
 toys and bone
-throwing
 to put out fire
 fruit and sandwiches
-by bushes
+sneaking up on deer
+dating
 her stuffed animal
-on see saw
-joke
+right foot
+side by side
+symmetrical
+left of monkey bars
 dog toy
 jumping up to bone
 tricks
@@ -1257,11 +2269,13 @@ salad wine
 salads and wine
 old women
 in woman hand
-with woman
-in hand
 woman hand
 plant pot
 her pants
+no stove in photo
+chair and coat rack
+chair and coat holder
+sit ups
 tree can be used for christmas
 christmas tree shape
 it looks like christmas tree
@@ -1271,10 +2285,20 @@ small trees
 small tree
 shrub with branches of moderate length
 on table near woman
-pork chops
-one is
+sleeping on boy
+spruce
+apple cider
+everything except birds
+babies
+left side of photo
+standing on floor
+near rug
 leaping towards woman
 gi
+water lily
+pie and cake
+all around room
+on couch and rug
 red with gold fringe
 jungle jim bars
 holding glass
@@ -1285,17 +2309,26 @@ walking nearby
 no where
 drunk somewhere else
 that may be his mom
-stand
+jumping up on man
+beside boy
+jumping to man
 having meal
-sweets
-juice
 kool aid
 candy
-cookie
+2nd shelf from bottom
+in shelf
+next to blue books
+their bent
+bent wrong
+they appear crooked
+bent too far
 grilling food
 grilling out at park
 having cookout
 standing around grill
+ocean
+child in middle
+middle boy
 standing on two legs
 waiting for somebody
 looking at door
@@ -1306,13 +2339,14 @@ toy blocks
 blank television screen
 screen
 contortions
+tong
+toy doll
 left bush
 bottom left corner behind bush
 bush in front left
 bush on bottom left
 behind lower left bush
 scratching her thigh
-no chair
 because he is old
 lost his job
 his food is gone
@@ -1320,40 +2354,90 @@ no food
 no where to sit
 chair is gone
 junk
+to left of tree
 automan
+for it to be stable
+support
+to balance table
+to make it usable
+space between floor and flat surface
+keep items off floor
 lap dog
 shiatsu
-peekaboo
-30
-siblings
-white black
-lego
+trying to get book
+reaching for book
+reacher
+getting book
+question does not make sense
+to catch baseball
+throwing baseball
 waffle
-blue chair
-pigeon
+jumping towards one another
+catching mice
+hates dog
+escape
+to get curtain
+to stretch and scratch on wall
+reach window
+tan white
 in photo
 everywhere
 all around
+flip food
+flip burgers
+turn food
+flip steaks
+pull burgers from grill
+flip meat
+serve food
+no red caps
+2 on each sofa
+throwing them up in exasperation
+screaming
+sit and eat
+sit down and eat
+on arm of armchair
+chair top
+tea or coffee
 next to people
 right in front of ladies
 where ladies are standing
 center of picture
-younger lady
 young female
 younger woman
-pony
+massage
+waiting for his girlfriend
+yellowbird
+yellow bird
+sandwich and bottle
+sitting on monkey bar
+getting ready to jump
 covered in grass
-it is grass
 green grass
 picture on right
 green one
 flexing them
+following dog
+too few chairs
+empty room
+he is lost
+where to sit
+beside water
+high noon
+in evening
+no picnic basket
+what picnic basket
+running to pond
 away from woman
+bond
 by right window
 they dropped it
 it was put there
 girl dancing
 girl dropped it
+expressing
+lifting them up
+lifting them
 no steps
 because he is short
 too short
@@ -1362,126 +2446,224 @@ he is too short
 78
 beneath table
 under coffee table
-wild
 common
 yellow daisy
 no is my best guess
+nobody else
+nobody there
+mom is in kitchen
+parents are in other room
+enjoyment
+to watch tv
 on cough
-ants
 waving goodbye
 climbing up
 going up
+sitting in his bed
+sitting in dog bed
+sitting in bed
+waking up
+sitting on pet bed
 are babies friends
-shape
 art deco
 classic
 promotion
 her birthday
 picnic foods
-pictures on wall
 dog do trick
+watermelon and pie
+pie watermelon apple hot dog
 tree limb
+to cook with
+he is cooking
+to not get burned
+to grill
+move food on grill
+to pick up food
+butterflies and birds
+birds butterflies
+red blue pink yellow and white
+red yellow blue
+red yellow and blue
 waving at woman
 going to hang picture
 on her back
 prone
 lying position
 flat
-e
+swaying
 top right of picture
-under stool
+bible
+big book
+no clouds
 right of bookshelf
 on floor to left of lady
-behind old lady
 next to bookshelf
+left of picture
 walking towards pond
-sitting on chair
-sitting by fire
+more than 10
+over 5
+ecstatic
+burning logs
+working out
+when sun sets
+before dark
+later
+sundown
+brownish
+between girls on sofa
 dog trying to catch ball
 playing wii
 playing with kitten
 about to hug her cat
-front of fireplace
 in front of hearth
+on back wall
+self
 sitting in front of television
-playing games
+on her belly
+on person
+shelf and floor
+in bookcase
+bookshelf and floor
 toys and book
+one in sandbox
+boy with teddy bear
+boy and stuffed bear
+kid and bear
+red and beige
 there are 2 bikes
 girl falling
-woman on right
+after cooking on grill
+after food is cooked
+after dad grills food
+mellon
 red haired girl
 girl with ponytail
-right woman
 one in black top
 woman green shirt
 pillowcases
-pasta
 no orange thing in tree
 it is only shelf in room
 for decor
+two pillows and cat
+in bed and on sofa
 her balance
 broken leg
 some sun
 on tree limb
 on top of tree
-on branch
+blue pants
+armani
+tv monitor
+top shelf of bookcase
+playing with animal
+leaping off chair
+under dinner table
+under table set
+under table and chairs
+swans
+white birds are called ducks
 trying to ask cat to sit on his lap
 side of fireplace
 each side of fireplace
-beside fireplace
 plant and books
-books
+getting close to butterfly
+playing with butterflies
 blue green yellow
 green yellow and blue
 raccoon fight
 two raccoons
-pot
+breakfast
+pancakes
+both sides of fireplace
+one on each side of fireplace
+on both sides of fireplace
+its safe
+its shady
+comfy
+cool
 lady is blocking fireplace
+side of couch
+on sides of room
+on each side of room
+each side of room
+to sides of couch
+in picture on wall
+in other room
+walk past woman
+read with grandma
+show lady book
+younger girl is going to read book
+give book
+man and lady
+girl and old man
 just sitting there
 hat rack
+family just moved in
+there is not books
+no more books
+only few books
+dog running
+dog is playing
 lounging
-boy and girl
 to table by window
 to desk
 to table
 biggest one
 light brown one
+african american
+latina
+latin
 other girl
 messy toys
 cranky
 relax
 big girl
 on ground by sidewalk
-on bed
+whip
 wave
+not in park
+not in sight
+bread and butter
 soccer ball and football
+stools has 6 legs
 vulture
 riding slide
 pushing bike
 standing next to bike
 holding her bike up
 holding bike
-color
 no sand under it
 it is curved
 it is purple and red
+running on bottom
+letters and blocks
+tan and yellow
+it is orange
 what is man having for lunch
-beside bush
 on top of bucket
 on blanket and bucket
 in bucket
+mugs
 man with basket
-boyfriend
 tan with white stripes
 pansies
-unhappy
+sleeping cat
+woman in gay top
+held by women
+plate of lasagna
+2 plates of food
 on ground in front of chair
 near chair
 yes and swimming
 eating watermelon
 holding watermelon
 offering it food
+bottom right corner
+right side bottom
 center of sky
+girl in black
+brunette girl
 tom
 prince
 tiny
@@ -1490,24 +2672,43 @@ flippy
 gizmo
 his right
 he is from india
+3 different specimens
+in front of her
+frog on lily pad
+on floor with lady
 dinner table
+yellow flowers
+black or blue
+blue shirt
+stepping over skateboard
+opening picnic basket
+on mantel
+wine and bread
+wine bottle and cheese
+cheese and wine
 belgium
 germany
 with
-sister
 homeowner
+dog asleep
+tree logs
+until they get up
+while
+cat and girl
+glass and apple
+wine and apple
+burnt orange
+bar
 dismay
 fear
 worrisome
 in foreground
-right in front
 running to right
 running on grass
 there are 3 mushroom by log
 chair couch
 2 chairs
 table behind right couch
-on brown table
 to eat them
 acute
 slanted
@@ -1515,31 +2716,73 @@ diagonal to rug
 towards viewer
 45
 diagonally
-in sand
-next to woman
+dov
 between boy and woman
+left mantle
+left fireplace mantel
 watching it try to get bird
 trying to catch it
 four butterflies are blue
+near slide
+in between slide and seesaw
+between slide and see saw
 in front of television
 in front of tv
 next to pillow
+eating sandwich
+sitting at table with her arms outstretched
+having sandwich
+melted pie
+stuff
 dark gray
 between two pine trees
-wine bottle and wine glass
+burgers and steak
+meats
+burgers steak
+he has to leave
+hurting
+he is falling
+dropped skateboard
+pain
+fell off skateboard
 wine and wine glass
+2 years old
 breaking bread together
-next to bench
-in cat bed
+other man is playing with bees
+too much clutter
+not mad
+she could get stung
+she may kill bees
+it may sting
+it will sting her
+sting her
+there is no pool
+girl and mom
+mother and daughter
+taking walk
+partially cloudy
+to throw
+he wants to play baseball
+going to throw it
+skull
+she is happy
+holding hand
+holding hands with man
+turtle is classified as reptile
 in front of frame
 near picture
 in front of painting
-in front of picture
+what is boy playing with
 behind them
 their bikes
 riding bicycles
+looking at pies
+getting ready to eat pie
+boxes
+playstation 3
+center of living room
+in middle of it
 pin
-dish
 empty plate
 get stick
 after animal
@@ -1547,19 +2790,23 @@ bicycling
 getting on his bicycle
 walking beside bike
 pecking grass
-on top of couch
-back of couch
 back of sofa
+man on slide
 ct
 teddy bear and pillows
 teddy bear and 2 pillows
-pillows and teddy bear
 her baby
 god
-day time
+yse
+he drove
 in sky or around pond
 flying and in pond
+sacrifice
+to be funny
+childish
 near flowers
+on window ledge
+on window seal
 storage
 for surprise
 to keep room tidy
@@ -1571,23 +2818,41 @@ to keep in safe place
 for storage
 ponies
 caring
+on stand
+stool table
 in pit
 man is reaching for basket
+pie and plate of food
+coffee and pie
+interacting
+going towards each other
+baby walking
+color of bushes are green
+poker
+in griller
+on bbq grill
+all pets cats
+boy in brown sweater
+man in red shirt
+standing on grass
+gathering
+searching
 under plant
 to left of front door
-near door
 under plant by door
 right of door
 clancy
 toby
-joe
 doggy
 max
 old yellow
 rascal
+woman will give bone to dog
+pool
+board seat
 red burgundy gold
+cat and pillows
 pale pink
-sandals
 plush cat
 stuffed kitten
 between ladies
@@ -1598,6 +2863,10 @@ pie and drink
 glass of wine and plate of pie
 food cups
 wine pie
+to get away from dog
+sacred of dog
+dog chasing her
+she is scared of dog
 parents are away
 to watch children
 grandkids
@@ -1609,32 +2878,65 @@ was asked to
 mom is at work
 person and dog
 in sky behind tree
+ball of string
+on old lady
+on armrest
+dancing and laughing
 yellow blue red purple
+guy on left side
+dog is having fun with girl
+girl on monkey bars
 rodent
 there is no tablecloth
 walking to dog
+loves pie
+she gets pie
+she has food
+she going to eat some pie
+plate with cheese
+plate of pie
+slice of pie
+her mom is in other room
+parents are gone
+no one around
+mom is in other room
+family at work
+red yellow purple blue
+red blue orange and yellow
+brick red
 it is green
 bird sun
-man and woman
 girl and man
 page boy
 paige boy
 straight
 bob cut
+few strands
+very little
+carp
+content
+slight smile
+relaxed
 floor on right side of window
 on floor right of window
 right of baby
+go out
 sitting next to man
 sitting next to grandpa
-flowery
+10 ft
+taller than people
+15 ft
+35 feet
+12 feet
+taller than people sitting on bench
+leaping in air
+cdba
+beef
+grilling meat
 gold and white
-dachshund
+under chair for lost ball
 food from grill
-top right
-pavement
 path
-dusk
-firewood
 chimney
 two logs
 she drunk
@@ -1642,19 +2944,37 @@ they fell
 cats knocked them down
 getting ready to sit on it
 thinking of sitting there
-bored
 in his view
-red car
+park sidewalk
+woman is on couch
+this is woman
+woman is standing on chair
+flying in air
+doll and stuffed animal
+doll and bear
 appears to be
+briefcase
 sun and 1 cloud
 b d c
 abvd
+tater tots
+nuggets and fries
 person on right
 yes it is woman
 yes it is
+chatting
+because of butterfly
+at butterfly
+she likes man
+man said something funny
+cross
 koi pond
 underneath table
-tray
+log in park
+3 lily pads and duck
+duck lily pads
+in bottom shelf
+bottom of right bookshelf
 in shape
 stocky
 curvy
@@ -1662,31 +2982,46 @@ heavily
 heavy
 normal
 big hips
+black bird
+by woman
+beside girl
+in park with girl
+by lady
+next to girl
 roasters
-marshmallow on stick
 marshmallow roasting sticks
 skewers
-marshmallows on sticks
 toast marshmallows
-setting table
 getting ready to eat
-resting them
 resting them on sofa
-propping them up
 laying them out
 resting on couch
 beach sunset
 sun and water
 sun sky water and sand
+blue yellow pink lavender
 mantle and stool
 stool and mantle
 end table and fireplace mantel
 stool and fireplace mantle
+guy to left
+man and skateboard
+in front bushes
+glasses and food
+second shelf
 dog is doing trick
 joy of life
 discarded items
+either 8 or 95
+by pool
 nighttime
 men
+water in pond
+sky and lake
+kids and animals
+people and pets
+person dog
+flipping
 on blue chair
 that dog is cute
 good at trick
@@ -1697,31 +3032,51 @@ she is pleased with him
 210
 200 pounds
 overweight
-150
 140 pounds
 190 pounds
 300
+duck butterfly and human
+butterfly duck human
+human duck butterfly
+duck human butterfly
+feeding ducks
+there are 2 people on sidewalk
 by person
 jumping in air
 jumping to woman
+down window
 on top of dinner table
 walking towards mouse
 watching mouse
 chase mouse
-hanging from bars
 crossing monkey bars
 flying over pond
+ball girl
+girl soccer ball bird
 what does boy see trying to go up tree
-my best guess is no
 tv and game system
 tv and video game console
 tv and video game
 tv and game console
-waving them
+toward couch
+2 live animals
+closer to game
+closer to tv
+she can see screen better there
+controller cord too short
+she is playing video game
+eagle and cloud
+cloud and bird
+golden yellow
+next to see saw
+prank
+cause small children usually are mischievous
+left of child
+left of baby
+behind baby
 putting them both as far away from his body as possible
 warning beehive
 pointing to beehive
-matches
 he likes it
 favorite color
 his style
@@ -1729,47 +3084,59 @@ it matches
 matching
 to stand out
 to be seen
-woman in red pants
 mush and cookies
 potatoes and macaroni
 fried chicken
 scribbles
-little
 what is boy and dog playing with
-girl with pigtails
+feeding it
 sitting behind slide
 1 hour ago
 while ago
-recently
 during day
-picture frame
 green and yellow framed picture
 bisected
+lilac
+most people would agree she does
 behind man and woman
-behind man
 to right of picture
 behind boy on right
-first one
+70s
+68
 one in front
 front pond
 one at front
-third
 closest one
 near cat
 loor
-meal
 plate with food
+lamb chops
+by scooter
+travel
 loaf of bread
+flan
 trying to get his bone
 trying to reach bone
 trying to get on shelves
-red orange and yellow
 girl on slide in grass field on sunny day
 on top of picnic blanket
-feeding birds
+grandparent
+grandpa and grandson
+father and son
+grandson
 lower right corner
-in forest
+bird and rabbit
+granddad
 his left side
+up and down
+holding soccer ball
+lying on ground
+vacation
+her personal troubles
+what to have for dinner
+world
+her day
+you cannot tell from this picture
 cream and blue
 white and blue
 black and yellow
@@ -1777,127 +3144,283 @@ green white
 yellow and black
 sunset on water
 window sill
-by sofa
-next to sofa
+toasting it
+holding it above fire
+putting it near fire
+food drink and people
+food drinks and people
+people plate and cups
+people food
+cups and plate
+couple having picnic
+underneath window
+on platter on rug
+in tray
+on tray on floor
 on floor to right of couch
 right side of couch
 dude
 tv is off
+about to attack
 partiers
 guests
 teens
+french
+italian
+in front of people
+in front of them
 in her bed
-kitty
-dandelions
+deep red
+above mantle
+eage
+lower right side
+right of bush
+he is sitting in it
+put it in barbecue
+put it out
+put in grill
+start grill
 small dog
-exercise
+baseball football soccer ball
 hard bound covers
 are slightly open
 leaning against
 propped against each other
 propped up
 partly open
+pie and tomato
+pie and apples
+apple and pie
 they are scared
 spying
-who knows
+by bookcase
 red skateboard
+put on ground
+leaving it on ground
+layed it on ground
+putting it on ground
 braided pigtails
 under end table
+keyboard
 middle of photo
+mildly
+so delicious
+wonderful
+night time
+too much sun
+too sunny
+it was being watered
+it belongs on ground
+it is being cleaned
+it is on ground
+might leak
+it fell
+owner likes it on floor
+basket and bottle
+wine bottle and basket
+basket bottle
+basket wine
 1 month
 ginger
+talking with
+wine bottles and cup
 front of window
 young lady
+white with orange
+patterned
 old brother
+smooth out dirt
+fall over
+play in sandbox
+fall down
+full to top
+50 pounds
+enough
+she is cooking
+posing
+dancing near it
+catching animal
+worshiping
+toy on rug
+things left on floor
+sleeping by her dog
+be close to pet
+fell asleep
 scene
 field and sunset
-sun and mountains
 no leafs
 there are none
+mary janes
 running to boy
+stick with marshmallow on it
+no dog in picture
+no portrait
+touching each other
+spread
+in circle touching
+lotus
+sandwich cake ribs
+ribs and cheese
+pie and sandwich
+cheese sandwich chicken legs
+sandwich cheese ribs
+flying over bush
+what is in water
 red and white check
+light green
 sunny and nice
+shish kabob
+kabobs
+with seesaw
+lighter than boy
+law of gravity
+she is on seesaw
+boy is heavier
+because boy is balancing her
+it is cartoon
+jumping at woman on bike
+walking to woman
+coat tree
+ball yarn
 portrait painting
 right of sandbox
-beside sandbox
-on footstool
 on footrest
+dark green
 happy to see him
 he has lot of energy
 greeting him
-trick
-shrubs
-nature
-she is alone
+with him
+to left of baby
+girl in gray shirt
+blonde girl
+middle girl
+girl in gray
+blonde little girl
 cat is asleep
 copper
-white and tan
 white and khaki
 white and beige
+avoiding mouse
+watching cat chase mouse
 between
-photographer
 owner
 me
 viewer
-over fireplace
+following girl
+playing on grass
+arm bars
 calling for dog
-sitting on floor
-volleyball
+planters
+bumble bee
+bug
+leaping in to kids arms
+jumping at
+on either side of rug
+around carpet
+ends
+ribs and sandwiches
+peanut butter sandwiches
+right of pond
 ground in front of monkey bars
 right of tree
-top
 her hip
-dining table
 wine and pie
-edge
-gray and red
+her back
+bird catching rabbit
+eagle attacking rabbit
+hawk getting bunny
+sparsely decorated
+climbing device
+dog and kid
+dog and boy
+baby and dog
+kid and sand
+earth
+show
+big bang theory
+shows
+entertainment
+in front of bushes
+under bush
+lower right next to bush
+playing on see saw
+sitting on teeter totter
+playing see saw
 r
 boardwalk
 little boy being held
+lying down on bench
 blue jays
 bugs
-weather
-life
+no cats
+by girl
+playing sand
 bed bugs
+sky blue
+grass in front of tree
+her left
 getting ready for tea
 holding his stomach
 walking to table
 drinking tea
-waiting
 tea time is fun
-on jungle gym
-monkey bar
+pants and shirt
+top and pants
+pant and shirts
+long sleeved shirt and long pants
+girl in blue
+5 months old
+less than year
+small baby
+semicircle
 i hope not
 different room
 to bookcase
 feeding pet
-across room
 put book away
 book shelf
 woman is sitting on blanket
-white wine
 doll and stuffed animals
 teddy bears and doll
-treat
-red one
+to be eaten
+he wants to eat
+man is about to cut it
+near
+couple of feet
+pizza and wine and ice cream
+pizza and ice cream
+pizza and wine
+next to cat
 persian
 woven
+it was dropped
+baby dropped it
+dog is playing with it
+child threw it there
 sitting on blanket
 playing on bars
+portrait has no prints inside
+living thing
+woman in tan pants
+by boy and bbq
+woman who is standing
+one standing
+lady and tea set
+woman and tea set
+2 plus 4 shrubs
 turtle is next to it
 to shallow
 died
 too small
 too cold
-elsewhere
 raptured
 salad and spaghetti and meatballs
 salad spaghetti
 between tree and girl
 in gordon
-on his lap
 in guys lap
 landscape photo
+stranger
 chk
 clop
 scratching noise
@@ -1908,106 +3431,256 @@ chitter
 click
 kee
 light purple gray
+fleeing
+stopping dog
+cooking on grill
 tablet
 pad
 her leg
-paper
-notebook
 it is yellow dog
+on top of still
+in pot
 in back
+pail shovel
+check
 cracking
 no sound
+standing hear her bike
+for better view
+to hold flower
+deers
 passed out
 laying down on bench
+picture on wall time of day is late afternoon
 no allowance
 he was robbed
+picnic food
 behind pond
+pedro
+bruno
+buster
+skippy
 ed
+jumping away
+hoping
+running away from people
 mushroom and sun
-toy robot
-sunny day
+black lady
+rocket
+47 cents
+3 dollars
+on ground in front of girls
+are girls friends
+bright red
+jumping on sofa
+on table to left of picture
+bike is on sidewalk
 animals playing
 there are many animals in park
 wood and steel
 stools and plants
 end tables
 old guy
+platter
+on tray in hands of woman with pony tail
+on platter
 duplos
-bedroom
-brown red yellow
 cat and human
-red cup
 at left hand side of picture
 best friends
 pet and owner
 owner and pet
 man is owner
 needy
-beneath tree
+golf
+to catch it
+no there
 under tree on right
-thread
+bird and bird nest
+ges
+lifted on couch
+crossed up on couch
 up tree
 tree branch
 bench on right
+next to carpet
 two fish
 on right of table
 right of coffee table
 on floor to right of table
 one in water and one on ground
 in and next to pond
+bun
+speaker
+phone
+smores
+toasted marshmallows
+roasted marshmallow
+cookout
+understand
+under tv table
 asking for baby
-reaching for baby
-holding baby
 trying to take baby
 wood and wrought iron
+inward to right
+white curtains
+duck is white
+colors
+different curtains
+girls lap
+on girl
+style
+to create asymmetry
+variety
+she likes that
+decoration style
+esthetics
+sunrise and sunset
+mistake
+way they were hung
+she is swinging from monkey bars
+she is hanging from monkey bars
+jumped off monkey bars
 holding book
+laughing at
+left is higher
+catacorner
+left one is higher than right
+to touch bird
+pet bird
+she is trying to get bird
+putting bird back
+returning bird to nest
+for bird
+to put bird back in nest
 bat ball
+goat
+busjes
+end of park
+bad city planning
+ran out of funds
+not finished yet
+ran out of cement
+girl on left
 yes doll or bear
+between bush and log
+center picture
+throwing rock
+left side of couch is warmer
+reddish orange
+left arm of sofa
+brownies
+in front of pond
+standing near bush
+fruits
+baby doll
+neither chair
+countryside
+sun and hills
+hot drink
 rocks around pond
-stones
 pond edge
 france
+glasses of wine
+playing on playground
+left of couch
+from bird
+she is scared
+they are playing hide and go seek
+playing hiding seek
+hid and seek
+doing monkey bars
+hanging from jungle gym
+swinging on monkey bars
+spade
+mob
+private joke
+leaning against ground
+with kickstand
+pedal
+on its wheels
+silver and red
+landscape scene
 sewing
 rolling up yarn
 right side wall
 between plushies
 between stuffed animals on floor
 between man and dog
-red and brown
+she is exercising
+to point
+she is reaching for something
 fight
 man is on left
-walkway
-road
+log on fire
+left man
+she is laughing
+laughing too hard
+she is hungry
+sure
+right of plants
+right wall
+pit
+safety measures
+boiler
+bent upwards
+folded
+putting something to his mouth
+by his left hip
+playing on floor
+closer to dollhouse
+playing with house
+dog playing
+birds nests
 tortilla chips and sauce
-cookies
 chips and dip
 dip and chips
+wasps
+lying on couch
+on floor to right
+sleeping on ground
 in front of slide
+ca
 checkered cloth
 grass and picnic blanket
+her left hand
+shovel and bucket
+pails and shovels
+keep warm
+it is picnic fire
+its cold
+loaf french bread
+no animal
+logs in fireplace
+stroking
+lotuses
 bugs bunny
 kid friendly show
 gold blue
 orange and blue
-blue and yellow
+at tree
+red headed girl
+she is passing glass of wine
+near couch
+polka dots
 something to play on
 somewhere else
-inside
 children to play
 better location
 tree in way
 there is shade
 shade
 to be under tree
+big trees
+green leaf
 girl on bottom
+american indian
 color of curtains are white
 it was very well balanced
-upright
 positioning
-maroon and brown
 mostly red
+cooking steaks
 woman sitting on blanket
-red and orange
 bat on ground
 ball and bat on grass
 baseball bat nearby
@@ -2028,12 +3701,27 @@ people surprised her
 dead
 sun and owl
 sunbird
+playing with football
+they rode bicycles
+rode bikes
+enjoying good time
 fish and bird
 fish duck
-thongs
-tongues
+trains
 holding tongs
+hide n seek
+wine cup
 sitting next to fire
+rounded top window
+half round
+curved one
+bay
+white window
+glass window
+arched window
+arched
+cat show
+next to seesaw
 on top of armchair
 pie and chicken
 pie and meatballs and spaghetti
@@ -2042,20 +3730,30 @@ pot pie
 viewing squirrel
 walking near it
 sitting on log
-watching man
 boxer
 happy sunshine
 lovely day
 how happy she is
-nice day
 in tea pot
 about sunny day
-ni
-gray and white
+10 year old
+corn and kebabs
+yet
+legs out
+legs in front on floor
+legs open on floor
+open leg
+open legged
+with legs splayed
+woman and sunrise
+sunset and woman
+lunchtime
 no man here
 there is no young man
 watching bird
 tortoise
+seals
+on bottom left ground
 bucket with shovel
 pale
 bucket and pail
@@ -2063,74 +3761,154 @@ cups and kettle
 platter with teapot and cups
 tea cup set
 yes he is smiling
-apple tree
+plant in way
 he is sliding down slide
 measurement
 underdog
 on grass under dog
-midday
-sitting on rug
-yawning
+she forgot to buy books
+nothing put on it
+nothing in it
 sucking thumb
 playing on rug
+beneath couch
+below table
+under couch
+sitting and laughing
+dug
 loveseat
 f
 tea set and sandwich
-tea tray
 tea and sandwich
+they are sharing pizza
+they like each other
+they are dating
+they are couple
+same style
+sun at horizon
+landscapes
+suns
+photos have same size and sun is in both photos
 leaning on it
 clawing it
+game remote
+phone receiver
+dvd player
 baby and pail
 baby and bucket
 bucket and boy
 boy and pail
+no bread
+lace
+stitching
+stitches
+slide and see saw
+equipment
+from upper left
+left of children
+to left of slide
+next to slide
+center of pic
 different fabric
 matches curtain
 goes with curtains
 it is floral
 it was brought in from another room
 too poor for new ones
+honey bee
+putting it on table
+placing on table
+picking up
+carrying it
+3 sets
+no part
 fishing rod
+yes boy is on floor with food near dog
+brick
+curtin
+on drapes
+on floral curtain
+above baseball
+in sky top of image
+on rug ends
+on end of carpet
+wooden log
 yes with cat
 playing with their pet
 people are playing with dog
 woman and girl walking dog in park
 running to dog
+cat is playing on chair
+looking outside
 peach and orange
 pinkish
 peach and brown
 dog is running toward man
 they are yellow
+in doggy bed
+on his bed on floor
+has border
+it has border
+coat rack and stool
 standing on right
 walking to baby
-near baby
 walking towards baby
 walking toward child
 2 plaids
+standing on its back legs
 wants to sit there
 to be off floor
 wants food
 2 pair
+could be
+annoyed
+he wants yarn
+shy
+because he is shy
+wants string
+pattern of curtains are floral
+plant on stool
+stool with plant on it
 ladder
+cats like to chase birds
+trying to catch them
 sun on wall
+abstract design
+colored rectangular patterns
+lines
+pattern
+tea cups
 29
 28
-21
 26
+other rooms
+in front of window on left
 instinct
 get to know her
-pick him up
 looking for other dog
 2 of them are
 dog and cat on rug
+rust colored
+no brown woman
+one in blue
 tallest dog
+lily pads bird
 kind of
-in another room
-not in room
 granny
+holding child up
+holding child
+holding kid
+top of chimney
+there is no woman
+birds and ducks
+ducks and birds
+he lifted them off ground
+he is stretched out on bench
 on bookcase
-on bookshelf
-top shelf
+looking at tv
+she got sand in them
+playing peek boo
+to keep sand out
 he pooped
 flying too close to sun
 because he is flying towards sun
@@ -2141,117 +3919,240 @@ lab and poodle
 lab and fluffy white
 retriever and terrier
 spitz and pointer
-collie
 golden retriever and yorkie
 golden lab
 white one and yellow one
 muts
+baby playing with too many legos
+baby playing
 to play with baby
 he is playing with child
 so he can be beside child
 piece of meat
-under picture
+2 deer
+bee hive
 leaf
+what is man doing with balls
+jar
 poop
+jumping for ball
+looking at baseball
+playing ball with boy
+playing with baseball
+standing on bench
 no ball on rug
 there is no ball on rug
 jumping into chair
 on rug and chair
 easy
 it is easy
-fireplace mantle
+swiss
+colby
 meat fell off grill
 food dropped
 dropped food
 meat fell
+bigger one
+taller
+teenage boy
+in black shirt
+tan stripes
+even
 blue teddy bear
 toy and cat
 cat on couch
+rainy
+child hand
+by sandbox
+left by bush
 gir
+its bed
+white duck
+upper right
+behind cloud and tree
+behind tree and cloud
 only goalie
 cumulus
 rope jumping
 not odd
+beautiful
+green and gray
 hope not
 duck and butterfly
 bird and bee
-front right
+they already ate
 ends of sidewalk
 sidewalk grass
+left side of bench
+side of sofa
+left of sofa
+on floor left of couch
+behind male
 warming themselves
 throwing marshmallows
+half day
+day is my best guess
+few days
+day or 2
+1 week
 possible
+drink out of it
+bird and sun
+animal on rug
 he had fun sliding down
+not at home
+in portrait
 cat is playing with yarn
 cat is playing with it
 cat toys
 for play
+fish flower and duck
 there is no squirrel
-nuts
 futbol
+cricket ball
 weber
-barbeque
 portable
 block
+elder one
+man in gray pants
+tallest boy
 barbecue tongs
+foods
+walking toward woman in chair
 dinner and dessert
 ice cream and chips
+child is 2 months old
+lost balance
+tripped trying to catch ball
+tripped
+on floor between sofas
 him
-rectangle
 on date
-romantic
 pick nick
 joyful
+playing with shovel
 jump up
 leap on it
 get food
 jump on it
 jump onto table
 scratch
+his bike
+looking at girl
+staring at girl
+wants attention
+waving at him
+signal
+man has food
+he wants to be petted
+wants petting
+he is going to pet cat
+shove
+sand and shovel
+mid sky level
+mid sky
+one inch
+just above horizon
+midway
+below trees
+middle of sky
+midsky
+because they are walking by
+attraction
+likes them
+they are pretty
+thinks pretty
+recognition
+she is walking
+in picture on right
 beside stool
 in floor in front of window
-slim
 her hand
+little is holding bone
+just now
 frisbie
 yew
+logs in fire
 sand and bucket and shovel
 toadstool
 walking with her dog
 chasing dog
-birds nest
-mirror
+playing on jungle gym
 tossing ball
 catching soccer ball
 catching soccer ball and throwing soccer ball
+blue t shirt
+blue shirt guy
+kid in blue
+where boy is standing
+right there
+between clouds and sun
+behind sidewalk
+mustard
+hidden
+there is no beehive
+bird has it
+falcon
+younger girl
 pointing at it
 teaching it
-talking to it
 light pink
-mauve
 plants or dog
 house plants
 his toys
+orange and cream
+doll house toy cars
+on shelf in bookcase
 moon is out in daytime
+he wants to be there
+on flood
+teatime
 color of frisbee is blue
 boys cup is blue
+there is eagle on it
+bird is sitting on bike
+bird is
+they left it
+there is eagle on bike
+no one is there
+dog and little boy
+mountain
+hillside
+setting sun
 green with white label
-fruit
+barbecuing and roasting marshmallows
+roasting marshmallow and grilling ribs
+violet
+light grayish
+there is no table
+no tv stand
+so she can see it better
+no tables present
+no furniture for it
+there is no stand
+he looks tired
+break from biking
+flaming
 getting ready to grab it
 feeding squirrel
 putting food on it
 eating picnic food
 picnic blanket and food
 blanket and food
+far
+near right
 bunny lives in park
 there is food
-for food
 lives nearby
-hungary
-overcast
 sunny and overcast
+picture and windows
+he is just playing
+getting treat
+door is behind boy
+oug
+rug and dog
 sliding board
 chico and man
-cartoon
 commercial is my best guess
 blues clues
 because it is fall
@@ -2259,11 +4160,14 @@ termites
 tree disease
 no water
 too much heat
+scratching wall
 at bottom of slide
 behind girl
-behind women
 pop cut
-cement
+children and dog
+2 kids and 1 dog
+dog and 2 children
+2 kids and dog
 trees and shrubs
 trees and bushes
 woman is sitting on floor
@@ -2276,7 +4180,7 @@ he gets full
 no dog in pic
 coat hanger on left
 on rack
-digging
+fetching
 looking at soccer ball
 being petted by girl
 sitting with woman
@@ -2284,27 +4188,45 @@ right of rug
 there is no mouse
 she is playing with cat
 she is not
-2 ft
 not very high
-2 feet
-low
 somewhat likely
-likely
-100 percent
 slightly
+planning their vacation
+funny story
+something in distance
+something not in picture
+something to left
+other people
+something on left
 animals bed
 forgotten
 cat is there
 robot toy
+sitting and walking
+lying on bench
+it is tired
+exhausted
+absent
+hiking
+grill and bench
+plate with tea
+two books and apple
+they are boxes
+no he is passing by
 beneath cat
 in middle of floor
+spare ribs
 leggings
 stretch
 straight legs
-long
 pastry
 blocks and dollhouse
 dollhouse and cars
+her left arm
+sunsets
+on girls lap
+knee
+ankle
 white and gray cat
 tabby cat
 angry cat
@@ -2320,69 +4242,76 @@ it was made that way
 drink can
 c
 letter
-it is
 circular
-spots
+shelf in bookcase
 tai chi
 holding treats
 playing with her pets
 playing with cats
 flower with vase
-flower pot
 between 2 people
 near boys foot
 being kicked in air
 wall base
 nintendo
-wii
 tekken
 75
+next to window
 holding out to dog
+obviously at far right of pic
 girl might fall off of stool
 may fall
 she could fall
 falling off stool
 she might fall
+stops at door
+run behind it
 shooing away rat
 chasing it
 babysitting
+y 2
 in dining room
-purple and blue
 bandidas aussie
 foot
+there are 2
+forwards
 u
 under monkey bars
 in playground
+part way
+anyone at park
+on its belly
+stretched out
+there is no cat in picture
+tree and bush
 deer and skunk
 bench in park
 under barbecue
 on bottom
 under feet
 under their feet
-father
 man in blue shirt and black pants
-melon
-multi
-toddler
+he is holding one
 yellow orange
 she wants to be
-she likes it
 everyone left
 friends are at school
 parents getting wood
 mother and child
-mom and daughter
 lady and girl
 watching ducks
 sitting enjoying nature
 sitting on bench watching bird fly
-sitting on bench
 old lady is sitting in park
-yawn
 in wall behind chairs
 in wall
 wall behind chairs
 being
+earl gray
+darjeeling
+formal
+hot tea
+english breakfast
 what is yellow flying in sky
 on soda
 getting too hot
@@ -2390,79 +4319,134 @@ sitting at impossible angle
 for watching
 placed there
 placed there so man could watch it
+on bookcase shelf
 ribs and marshmallows
 not big
+holding something red
+holding frisbee
+handing something to lady
+hold plate
+hold frisbee
+boy seems to like slide
 playing with kids
-yellow book
-basket and plates
-picnic basket and plates
-bag
+what is old man doing
+front right corner
+black heels
+black shoes
+black ones
+on ground in front of man
+blicks
+letter blocks
+holding her hand
+father brought in watermelon
+for watermelon
+there is watermelon
 in center of room
 center of wall
 center wall between chairs
-in house
 video console
 electronic gaming system
 gaming system
+between two women
+between women
+hornets nest
 between logs
-on logs
 between two people
 in between two people
+baby foot
+towards child
+towards baby
 plotted plant is on fireplace
 live
-houseplant
 potted
 leafy
-fern
 fica
 dig
-og
-in his hand
 in left guys hands
 boy in blue hands
+pork steak
+wistful
+nostalgic
+loneliness
+contempt
+red and maroon
 left chair
-on table to right
+tiled
+red and white checkers
 table on right
 on side table
-on end table
 coats and hats
 jacket
 extreme hot
 burning hot
-17
+my best guess is chihuahua
+miniature pinscher
+getting food
+to person
+toward woman
 to couch on left
 to couch
 to chair
 red gray
+football soccer
+football soccer ball
+sports
+hugging butterfly
+swatting at butterfly
+sore
+for balance
+he is resting it
+just like that
+can of coke
 rug and curtains
 under to right
 under right pane
-below it
 they are playing in park
 cricket
 in mid air
 over bench
 left side of sky
+grandmother grandchild
+grandparent and grandchild
+edge of rug
+walking in living room
+raising arms
+dancing with younger man
+on left and middle of wall
+on wall middle and left
+on far left and center of room
 pick up dog
 reach for his dog
 pick dog up
 greet dog
 mouse hunting
 playing with mouse
-labrador
-setter
-yellow lab
+left behind logs
+to far left
 no lady
-in front of girl
+play in sand
+playtime
+sitting with toy
+sitting smiling
 toward front
 it is in foreground
+brown with white tablecloth
 they are playing
 they are happy
 no man
-teacups
+its just color scheme
+they are abstract
+type of picture
+they are paintings
+her choice
+different types
+four course meal
+assorted
+salad and lasagna
+grayish brown
 teapot set
+one of them is
 lady feels sick
-he is happy
 funny thought
 watching something funny
 because he is happy
@@ -2470,155 +4454,329 @@ remembering
 he is crazy
 thinking of joke
 left of tan couch
+orange and peach
+orange pink red
+coral
+wallet
+calculator
+playing with legos
+building blocks
+no it is not
+to put his food on
+scooter motorcycle
 waiting for friend
 no glasses
 driving
-she is tired
-stuffed bear
+nk
+to throw ball
 next to bike
-on pavement
 her bicycle
 handlebar
 small horse
 various
+chair on left
+yellow maroon and red
+looks like steak
+hot dogs are cooking on grill
+250
+160
+700 square feet
+50 sq feet
+cannot tell by picture
+pizza and pop
 tabletops
 walking by it
 watching cat
+he is playing fetch
+so dog can chew on it
+to give it to him
+its history
+dog put it there
+vouch
+fallen tree log
+no cat in picture
+enough to fill it
+80 gallons
+50 gallons
+5 cu yards
+same distance
+about same
 holding can
 holding can of soda
 thinking
+between tree and boy
+chasing ball
+running toward boy
+white purple
 turned on
 sitting there
 its sitting there
-in room
+checkered picnic blanket
+stickers
+puzzled
+he is shocked
+not happy
+shocked
+great
+dog is at table
+dog on stool
+dog getting on table
+dog got on table
+due to misbehaving dog
+dog is getting on table
+candle
+rew
 walking away from men
+she is reading
+sheet music
+2 bikes
+2 mopeds
+2 scooters
+to decorate
+no reason
+there are two side tables
+fluffing
+stool with plant
+plant on table
+table and plant
 yes with his hand
+by boys feet other boys hand
+hand and foot
+both boys have it
+by boy on right
+what are boys playing
+bone and dog
 scratching tree
 sharpening its claws on tree
 climbing up tree
+to look nice
+framing
+keeping grass out
+to master
+to see man
+happy to see man
+to greet man
+to get to man
+get to man
+he is excited
+balding
+going bald
+bald top
+it is gray
 there is no window
 no window pictured
 no window
 bending over
 bending down
+over seesaw
 ballard
 white and green
 wild duck
+in front of table
 ufo
 neither it is bird
+picture of woman
+old woman and young girl holding doll
 waking
-crossing
 walking across
-motorbike
+wicker basket
+years ago
+last month
+last year
+2007
+5 years ago
+2 years ago
+sitting on middle chair
+seat
+middle chair
 owl and nest
+man and his food
+dog and person
+there is no white cat
+reaching up
+clawing at wall
+drinking soda
 pane
-meat and potatoes
-relaxation
+sports equipment
 to sit on couch
 she is petting cat
 to pet cat
 petting kitty
-right bottom
-one to right
 one laying down on right
 bottom deer
-far right
 ray
-light
 there are no guys in picture
+coi fish
+carps
 by wood
 on top of log
 there are no mice
 chase them
-chase
 what
 feed them
 family room
-man and dog
-in front of door
+girl in back
+dessert is my best guess
 toward coat rack
+what is man on
 gaming
 fax
 ps3
-trying to get mouse
+to get something
+she wants touch nest
+see birds nest
+to look at nest
+to get eggs
+showing her mom
+showing
+5 years old
 playing doll
+cat eats mouse
+dog cat mouse
+dog cat then rat
+mouse cat dog human
+larger animals eating smaller ones
+miss
+miss it
 sleeping and sitting with yarn
 because woman is scared
-sleepy
 they are scared of mice
 sleeping and playing
 they are moving
-little boy
+leaving
+legs
 dogwood
-elm
-maple
 regular
 pie and glass
 pie glass
 pie and glass of wine
 thrown
-triangular
 angular
+on edge of sandbox
 powered on
 at angle
-crooked
-sort of
-rack
-hanger
 clothes hanger
 cloth rack
+chicken wings
+plant and painting
+walking across room
+standing still
+near bike
+near bird
 two plants
+tea party
+sitting with book
+tan dog
+yellow one on left
 to picnic basket
 toward picnic blanket
+sleeping on sofa
+cars train robot
+cars train and robot
+trucks train
+trucks train and robot
+cars and train
+grab mushroom
+slacks
 s
 curve
 in ponds
 middle of grass
 behind kid
+1 white 1 gray
 on left by fire
 by fire
 rats
-hair
 about to read
-reading book
+plates and glasses with food and drink
+no table in picture
+plat
+sun clouds and hills
+hills and sun
 tv stand
-in field
 orange yellow
-plates
-plates of food
-stick
+two tone green
+not home
+taking picture
+another part of house
+2 potted plants
+wood logs and fire
+blouse
+tee shirt
 cigar
 birds nest and eggs and squirrels
 chipmunks and nest
+not getting along
+they want space
+they are mad
+they are strangers
 somewhat yes
 plastic
-rib
 cloudy day
 reflection
 season
 it will be night
 science
 strange day
+toy dog
+their hands
+each others hand
 top of mantle
-fireplace mantel
+beaming
+pvc
+iron
 watermelon flowers
 watermelon plant
-next to tree
+picnic basket and hot dogs
+hot dogs squirrel picnic basket people
+basket and hot dogs
+looking weird
+raindrop
+golf ball
+weed
+in front of carpet
 under cloud
 standing beside tree
 man on sidewalk
+he is lonely
+no one is there with him
+2 each
 watching squirrels
-motor scooter
+his pets are sleeping there
+animals are there
+pets are sleeping there
+dogs and cats
+front of log
+seniors
+senior
+on my right coat stand
+humans
 pear
 chunky
 obese
-bottom left corner
+on floor to right of rug
+right against wall
+crazy cat
+budget
+they removed it
+he is poor
+stolen
+next to armchair
+next to chair
+sun over water
+gamebox
 lower left
+in dollhouse
 on pond
 rock near pond
-hunting
 hunger
+philodendron
+small bush
+ivy
 wine and cup
+trying to eat
+eating their food
+trying to eat food
 striped
 flat color
 no pattern
@@ -2626,55 +4784,95 @@ mushrooms and jump rope handles
 mushrooms and jump rope
 mushrooms and handles of jump rope
 fish and frog
+in sky and at pond
 on its side
 tipped over
-on side
-beside pond
-front of pond
-leaping
-field
+person in red
+he does
+left corner
+over bush
 jumping over sidewalk
+24
+4 each
+cat is cute
+having good day
+she loves her dog
+cat is sleeping
+she heard joke
+new puppy
+she likes her cat
+1 bird
+no shelf
 feeling heat
-box full
+dog and bunny
+bunny and dog
 it is full
 its full
 in storage
 stuffed animal and blocks
-above man
-flying in sky
-by sun
+pets sleeping
+logs on fire
+burning logs and tongs
 hornet nest
-next to trees
-near trees
-sunset over ocean
+red shirt guy
+sitting boy
+something
 sun setting
+steak and burger
+steak and cookie
 he was called
 to come to boy
 going to boy
-he is playing
 to go to boy
 to get to boy
 cat and string
-beside couch
 by couch on ground
+berry
 larger one with red hair
 one with red dress
 red doll
-redhead
 red dress doll
 dollhouse doll and teddy bear
-sleep
-young girl
+chrome
 door and picture
+planter
+drink and tongs
+glass and tong
+wine glass n tongs
+wine glass and tongs
+wine tongs
 sitting in tree
 perching
 sitting on tree
 front middle
-to left of man
+leff
+left window
 scratching furniture
+left cloud
+scooters and bike
+vespa and bicycle
+bike and scooter
+on foot stool
+on plate
+sharpening claws
+paining
+paintings window
+piled under tree
+wall in middle
 3 dozen
-25
-lots
+needs 2
+fits 2
+works better
+dog collar
+snail
+nooh
+turtle and squirrel
+turtle squirrel bee
+acting
+jestering while laughing
+adjusting his arm
+scratching his head
+he felt like waving
 blown away
 spring season
 it is getting cold outside
@@ -2684,15 +4882,30 @@ they were cleaned up already
 raked
 den
 petting animal
+looking at her hand
 she threw bone
 grab bone
 pet dog
-play with dog
 approaching dog
 get bone
 grab pug
 veggie
 pizza slices
+pal
+they packed food
+nostalgia
+tired sitting down
+floor playing with doll
+on floor right of dollhouse
+playing with her toys in living room
+near doll house
+burn to ashes
+stepped on it
+stepped on them
+he stepped on them
+to pick them up
+forgot they were there
+to break it
 with man
 held by man
 in hands
@@ -2700,15 +4913,28 @@ arms of man
 toward grandpa on right
 towards front
 on top of carpet
-softball
-base
 girl is
 woman is
+robots and toy cars
+bees nest
 cat is playing with girl
 picture in middle
 what color is rug
+on one of brown chairs
 running from
 mostly sunny
+no cat is awake
+i do not believe he is
+jumping dog
+dog is jumping towards her
+dog jumping on her
+invisible man on other side
+foot on ground
+by her weight
+row
+single line
+going to pond
+handlebar and mirror of moped
 middle of tree
 about center
 sitting up
@@ -2725,12 +4951,25 @@ confused
 getting picnic basket
 to balance
 below girl
-foreground
 bottom front
+canine
+butterflies clouds and sun
+sun clouds butterflies
+clouds and birds and sun
 bird and cloud
+brown teddy
+left floor
+scorpio
 butterfly net
+color of sun is yellow
 crab
-playing with girl
+he wants to have fun
+because he want to
+to make fun
+to show girl
+to tease girl
+weird
+moth
 missing one eye
 eye is bigger than other
 broken
@@ -2740,36 +4979,45 @@ two braids
 looking at
 beehive and bird
 cardinal
-petting him
 holding him
+boy with red hair
 balloon
+tea kettle and cups
 color of chairs are blue
-on coffee table
-table top
 flying plate
 in man hands
 man holding
 what ball does man have
-catch football
-catch ball
-to catch football
 clothes
-12 pm
+girl and boy
+labrador retriever
+yellow and tan
 it is chair
 it is dinner time
-cleaning
+train set
 carrying tea tray
 getting tea
 serving
 having tea
 to her right
+jun
+hanging photo
+1 set
 3 paintings
 rocking
-falling
 3 ft
+dog on right
 man on chair
 man is watching tv
 in fireplace mantle
+dog is sleeping near doll house
+moon is out
+full moon
+moon is up
+tv and chair
+sun rising
+coming
+pink with flowers
 because boy put it there
 for boy to ride
 kids put them there
@@ -2778,37 +5026,81 @@ kids left it
 because boy was playing with it
 to play on
 at man
+donut holes
+chair on table
+picture and wine bottle
+painting on wall
+one with red hair
+red hair boy
+on bench at park
 woman on log
 land and air
 around pond
 pond and air
-towards
+to look at it
+capture
+swooping
+going to pick it up
 facing
-young man
+hard
+waving to each other
+relaxing in park
+93
+green n yellow
 picnic towel
+logs and bushes
+snakes
+picnic lunch
+as joke
+to play with them
+to get sands in them
+play with
 bottle and cup of wine
 left painting
+north american
+observing
+looking at animals
+shovels bucket
+pail and shovels
 on floor in front of table
 front of table
 1 do
+bench and man
+grass is on ground
+well maintained
 elderly woman on seesaw
+corn and hot dogs
+sausages and corn
+boy watermelon basket birds
 fetch
 frisby
 color of slide is red and blue
+on brown couch
 to get treat
 he wants what man is holding
 trying to get steak
 yellow and gray
 two colors are yellow and white
-brown and gray
 lower middle
 under man
 sweaters
 stay near fire
 hot chocolate
 hot cocoa
-black and blue
+not around
+out of sight
+on stroll
 bbq pit
+plates basket
+plates and basket
+plates and picnic basket
+on floor under picture
+left side of couch
+to left of sofa
+watching baby
+watching toddler
+watching child
+younger one
 right and left
 both sides of couch
 each side of sofa
@@ -2816,15 +5108,25 @@ left and right of couch
 beside loveseat
 on either side of sofa
 each end of couch
-shadow
-cushion
+probably yes
+their painting
+they can do clip art
+standing and laughing
+very probable
+lady with purple hair
+eagle and ducks
+sitting on sofas
+floor by couch
+on floor right of couch
+besides plant
+away from scene
+his hands
+because he wants to sleep
+basket and cup
 4 shelves
-5 feet
 5 ft
 tea seat
 jumping on furniture
-jumping on chair
-tv show
 television show
 her cat
 something showed up in tv
@@ -2833,141 +5135,367 @@ for baby and girl
 so 2 can play
 to play in sand
 for 2 kids
-honey
 lot of bee stings
 getting stung by bees
 stung
 stung by bees
 getting stung
+douglas
+fir tree
+my best guess is pine tree
+inside house
+wall and shelf
+res
+jane fonda
 2 tvs
 tv monitors
 2 televisions
+drum
 squirrels and birds
+robot on mantle
+4 bush lengths
+fifteen feet
+no too far apart
+10 yds
+several feet
+20 feet
+just little bit far away from each other
 toy bear
-watching animals
 cat is playing with raccoon
+on barbecue
+turtle on path
+pole
+in between two jump ropers
 ventilation
 venting while cooking
 vents
 forks
-design
 vent while cooking
 to let it cool
 to vent while cooking
-holding
-drinking it
-art
+1000s
+her dad
 yes tea
-to catch
-opened
-black and red
+around rocks
+greeting each other
+holding hands our and laughing
+bush and scooter
+vespa
+putting turtle in water
+returning turtle to pond
+getting turtle
+turtle in water
+releasing turtle in pond
+rug border
+resting on stools
+parallel
+above it
+elevated
+on stools
+no are not
+snow
+that she hopes she has dance move right
+about dancing
+dancing is fun
 on hind legs
 pouncing
 because she can
-upset
 sliding board boy
+warming houses
+heat
+heat house
+heating
+eat soup
+eat lunch
+chasing him away
+trying to shoo him from table
+telling it to stay down
+telling him to shoot
+telling it to get off table
+keeping him off table
 below people
-near dog
-in front of dog
 far left of picture
 jumping at table
 leaning on table
 by table
+next to young boy
+beside boy on rug
+under people and dog
+beside young person
 front of door
 next to rug
+tv program
+tv show to start
+her husband
 many things
 people exercising
 girls dancing
-o
 elephant
-mopeds
+with its hands
+by hands
+with his arms
+by using his hands
+two steaks
+rug and log
+log or blanket
+turtle getting away
+shooting it away
+waving them away
+swatting them away
+waving away
 motorbikes
+standing with bent knees
+trying not to wake cat
+above floor
+above their heads
+not in photo
+above walls
+not shown
+to her mom
+older girl
+her mother
+to hug lady
 not ball
 basketball
 it is frisbee
+into their nest
+to nest
+to tree
+to hive
+to pollinate
+middle room
+under boy
 golden tan
+they left him
+at work
+child abuse
+he is safe
+they left
+middle picture
 pie and tea
 beverage
+crown
+toshiba
+daewoo
+generic
+samsung
 someone left it there
 careless
 for pet
 kids left it there
 set it down
 dessert plate
-turkey
-slider
-arms
+between 2 windows
+middle wall
+surprise lady
+to surprise woman
+scare mom
+playing with woman
+to surprise
+girl and teddy bear
+girl and toy
+girl with bear
+woman is drinking wine
+in front of tree behind log
+base of tree
+beneath
+eagle to squirrel
+squirrel to eagle
 hold onto bars
 hanging on
-blue can
+bat and pail
+bucket bat
+pizza and mashed potatoes and meat
 toward frog
 chasing bug
 to frog
 to pond
 in woman lap
+no squirrel
 plate on table
+american idol
+commercial
+kardashians
+local news
+golden girls
+older man
 dressing
+left leg
 girl and soccer ball
 soccer ball and girl
-shelves
+chicken and pie
+pie and spaghetti
+pie and something gross looking
+meat and pie
+blue gray
+yellow pail
+brown and black
+not colorful
 little bit
+most people would agree it is not
+cooking meat on barbecue
 on picnic cloth
 hopping on 2 legs
+top of bed
+object on small table
+window shades
+bike riding
+riding bicycle
+watching boys
+staring
+too drink
+control remote
+red yellow
+4th
 on log on grass
+huge cat
+old couple and little girl
+granddaughter
+positive
+already past
+5 minutes ago
+at noon
+playground equipment
+baby is playing in sandbox
 5 rungs
 on edge of blanket
-picnic cloth
 running from ice
 freaking out
+rugs length
+6 feet
+few feet
+blue plate
+green bottles
+vases
+behind left woman
+left of chair
+someone put it there
+little girl put it there
+put there by girl
+girl put him there
+she put it there
 open barbecue
 mammals
 woman and dog
-sleeping dog
-no cat
 food on table
 item on top of table
+standing and eating
+corn cob
+cucumber
 pine trees
 straight ahead
 front past pond
 under girl
+grassy ground
+by carpet
 toss
 throw ball in bucket
 bucket ball
+child dog toys pie
+baby dog and toys
+bum
 brother
 mother and son
 black and orange
+floor rug
+on floor in front of tv
+in front of mushrooms
+in front of bush on left
+game is funny
+something is funny on tv
+he is amused
+funny tv show
+economy
+politics
+relationships
+support group
+feelings
 red orange yellow
 what does boy have
 stuff animal
-glasses
+swinging from monkey bars
+hanging onto it
+behind playground
+between monkey bars and slide
 furniture
 yellow strings
 old one
-black shirt and black pants
 shirt and jeans
 jumpsuit
-black clothes
 all black
 left corner of picture
 climbing scaffold
 cross bars
+his girlfriend
+relative
+sibling
+stump
+all around park
+by water
+there is one beside pond beside bush and between tree and pond
+scattered on field
 picture of girl
 purple one
+model toy home
 scooter handle
 handlebar of scooter
+playing ball with dog
+kebabs
+trying to get toy
+after mouse
+trying to reach for mouse
+does not like it
+wet
+seeds
+too big
 ews
+walking off rug
+walking away
+on picnic spread
+plates of food and cups
+food drink
 girl in white
 girl in white top
-grandfather
+standing by window
+picking up bottle
+looking at bottle on floor
+looking in bottle
+drinking from bottle
+purse
+notes
+notepad
+under bars
+koi and lily pads
+big one
+something that happened earlier
+he happy
+there is no door
+no door in photo
+no door
+middle aged
+middle age
+black shirt
+woman in black
+whether to take nap or not
+introspective thoughts
+i need nap
 bread and vegetables
-climb tree
+under stomach
 sneak
 sneaking
 hide behind log
 get on log
 climb on log
-playing with sand
 sitting in sandbox
+fold
+sio
+fox and squirrel
+dog squirrel
+bike and tree
+by bars
+between sand and bars
+next to monkey bars
+in between monkey bars and sandbox
 clapping
 they are on his hips
 holding hips
@@ -2975,6 +5503,7 @@ feeling his stomach
 put them on his stomach
 pillows and dog
 there is no couch
+between people on couch
 season is fall
 confidence
 quality time
@@ -2984,33 +5513,53 @@ waiting for another to come
 to enjoy day
 honeycomb
 bee hide
-playing with his dog
+playing with jump rope
 catching dog
 hand holding
 by their hands
 mope head
+between 2 right trees
+anyone in woods
 looking at butterfly
 she standing
 bd
 top of chair
 on back of chair
 doll baby
+both drive
+expensive
+they transport people
+they both begin with letter s
+color red
 placing it in his lap
-resting it
 in his lap
+does lady like her dog
+boy in red with boy in white
+boys in red and white shirts
+2 boys on right
 giving him medicine
-geese
+mop head
+having lunch in park
+catching fish
 one is black another one is blue
+bright spot
 center of floor
 bread and wine
 roll
+there is not tree
+tree fell down
+it fall from tree
+fell from tree
+fell out of tree
+no tree
+irish setter
 small plant
 mealtime
-left side picture
 behind woman in chair
 left of table
 behind table
 left wall
+white flowered
 by bush on right
 in front of right front bush
 on outside of sidewalk in front of front shrub
@@ -3028,37 +5577,96 @@ nanny
 on her knee
 on her knees
 dog and girl
-dog and child
-front door
+eating picnic
+by riding
+rode her bike
 in front of couple
 by people
-clear and sunny
+top left
+falling down
+she will fall
+she falls down
+cocker spaniel
+picked on boy
+grades
+joking around
+she told joke
+she got new dog
+not working
+mr tinkles
+whiskers
+bojangles
+moxie
+whitey
+fluffy
+atticus
+squirt
 flies
+window and curtains
+for relaxing
+sit and relax
 bowl and plate
-soup
 tea cup and saucer
+put in chair
+sit on it
+put it on floor
+put on floor
+smother cat
 girls and dog
 people and cat
 no sharing
+one is near park bench and other is between shrubbery
+right of bench
+late afternoon
+other wall
+flower pattern orange
+floral red orange
+peach flower print
 more fun
 playing spin bottle
 because they are lazy
 they can get closer to each other
 to warm up from fireplace
+in red
+red shirt boy
+one in brown shirt
+brown haired boy
+chipmunk stole her sandwich
+animal is raiding her picnic
+critter
+squirrel in lunch
+there is squirrel
+food is being stolen
+chipmunk taking sandwich
+chipmunk stealing food
 give to boy
 give ball back
 give ball back to boy
 give back
 give ball back to little boy
 bo
+toward tv
+to turn tv on
+little boy is on slide
+elderly man
+on curtain pattern
+on curtain
+on curtains
 they are ducks
+watching clouds
+to look at clouds
+cheese and bread
+bread cheese
+to relax
+he broke his leg
+he is tired
 sun horizon
-basket and wine
-picnic basket and wine
-man on right
+on right of picture
+right top
 guy on right
 in fire
 ball of twine
+she looks comfy
 man dropped book
 books fell
 book falling
@@ -3068,84 +5676,203 @@ man dancing
 at grandpa
 books falling off shelves
 at old man
-near girl
+dark yellow
+lady on right threw ball
+black woman
+lady on right
+on loveseat
+eat meal
+on left chair
 bookcase is empty
+red and white checked
+red and white checks
 watermelon and wine
 very big
 medium size
-feeding
 chasing them
 small fire
 orange fire
 log fire
 roaring
 hot fire
+next to left plant
+left of rug
+next to plant
+middle of wall
+in middle of wall
+on wall next to door
+football and butterfly
+holding bat
+swinging bat
+using bat
 yes she is
 clouds sun ducks
 birds clouds and sun
-on arm of sofa
-on sofa arm
-couch arm
+different sizes
 to be comfortable
-getting up
-orange cat
 orange one
 seating
-older lady
 front left
 far left in pic
+he hungry
+one girl only sitting
+reasons
+exploring
+he is bored
+apple drink
+cup and apple
+next to blue stuffed animal
+on top left
+near monkey bars
+baseball and soccer ball
+next to sofa on right
+for
 new moon
 waning crescent
+standing on rug
+sun and hills and sky and clouds
 bass
 coy
+one is red and one is pink
+he is swinging ball with bat
+hitting ball to woman
+only 1 girl and 1 doll
+towards cat
+no leash
+he does not have one
+beehives
+in arms
+in persons arms
+it is being held by lady in black who has on short brown hair
+in boys arms
+sitting on boy
+boys lap
+being held
+good day
+sunny and partly cloudy
+bright and sunny day
+sunny day with cloud
+380
+twenty
+many spots
 11 bars
+on furniture
 all over ground
 left and right of sidewalk
 both sides
 not sidewalk
 younger boy
+electric
+they are cute
+because they are smiling
+to be nice
+happy to be with them
+on window on left
 shirt and socks
 on left side of pic
+watermelon wine
+pine cherry
+thermos
+running and flying
+proposing
+courting
+meeting
 food jump rope
 food and jump rope
 food and girl
 on bike seat
+sunny days
+family guy
 picnic basket and plant
 basket and plant
+uncomfortable
+arguing
+gathering around fire
+being around fire
+hanging out at park
+sitting around fire
 puggle
+under fireplace
+floor by fireplace
+on floor in living room
+floor around fireplace
 of girl
 no tv is in room
-not in picture
 conch
-land
+mo
+hamburgers and wine
 husband
 manga
-daffodil
+granddaughter and grandfather
+white cloth
+caretaker
+j o
+alphabet
+c j o
+djba
+o j o
+beagle
+big dog
+standing near tree
 warm on fire
 warming their hands
 man boy
 boy and his father
 man and child
+side table
+blue red
+from
+grab
+pick her up
+pick it up
+woman reaching for him
+one in red pants
+little one
+person on left
+left girl
+lady pictured
+2 wide
+2 pane
+wide
+60 inches
+narrow
+2 panes
+3x3
+goodbye
 like water
 they were planted
-planted there
 someone planted them
 for beauty
-left of pond
 because they have water to grow
 moisture
 cheeseburger
-burger
 birds and bird nest
 birds and nest
 fish and lily pad
+little dog
+it is his pet
+for comfort
+to pet it
+on nest
+branch
+anywhere in scene
+tree or bush
+reclining
+therapy
+color of scooter is red
+cups and people
+females
 rug and blocks
+romantic gesture
+receiving rose
+roses
+rose gift from man
 his ear
 ear
-eating hot dog
 beside log
-next to log
 between sidewalk and log
+control
+red rust
 woman on bench
 ran away
 he was left
@@ -3154,10 +5881,12 @@ abandoned
 bad parents
 parents away
 parents left
-his parents left
 to right of slide
-beside slide
 dog and kitten
+eating on couch
+everybody in photo
+mat
+playing with doll house
 canon table
 it will be shredded
 scratched
@@ -3169,73 +5898,138 @@ scratches
 cat will scratch through it
 scratching couch
 clawing sofa
+party hats
 there are bees
 scared of bees
 behind mother
-maroon and red
-red with gold trim
+right squirrel
+fawh
+it is blue
+hanging on monkey bar
+frying pan
 why is this man all alone
 cooking marshmallows
-roasting
 running away from cat
 on left under painting
-left side of room
 below picture
+not sitting
+they are standing
 barney
 kids movie
 picnic at park
-hanging out
 she emptied it
 they have not used it yet
 it tipped over
 for sand
 took toys out
+scooter on right
 mostly purple
 green and blue
 doggie bed
-bald eagle
+fed
+he was playing
+been playing
+getting on couch
+metal
+kicked football
+kicking football
+shooting ball
+there is no giraffe
+they are backwards letters
+letters are printed backwards
+they are ugly
+words are backwards
+fell down
 baseball bat and ball
-portrait of woman
+windy
+rejoicing
 in closet
-lost
-closet
 no coats
+jumping rope and riding bikes
+bicycling and jumping rope
+riding bikes
+supper time
+drinking glass
 next to other sandbox
+behind flowers
+by flowers
+both people
 plants are on mantel
 plants are on it
-2 plants
+color of slide is red and purple
+stool and chair
+squirrel and bird
+squirrel bird
 sleeping in cat bed
 on its bed
+saturday
+weekend
+having dinner
+cat and rat
+dog and mouse
 teeter
 seat saw
 gray shirt and black pants
 pants and top
 blue shirt and black pants
 black and gray
-in ladies hand
+come
+how to jump
+dog yes person no
+woman shirt
+knocking at door
+someone is knocking on floor
+knocking on door
+frills
 woman is holding it
+opening wine
+bi
 only 1 person
-man is alone
-eating alone
 german shepherd
+getting played with
+airborne
+all afternoon
+5 mins
 alcohol
+trying to catch cat
+standing around
 left sky
 upper left corner
 sliding down slider
 yellow fringe
 tassel
 cherry pie
+teenager
 two mushrooms
 chichewa
+rear left of sliding board
+bottom shelf of bookcase
+not really
+on self
+on 3rd shelf
 his nan
-woman in white
+background by bench
+to right of woman
+beside cloud
+space
+invisible
+there is no slide
 everyone
 teen girls
 looking at frisbee
-chasing frisbee
 whiff
+pretty high
+room is large
+it was built that way
+it is two rooms
+to see outside
+different rooms
+how house was made
+room is big
+farthest
+utensil
 eating acorn
-upside down
+fine
 standing on his head
 standing upside down
 to picnic
@@ -3243,20 +6037,30 @@ glass and bottle
 bottle and glasses
 wine and classes
 wine and wine glasses
-probably not
-man in black shirt
 man with football
 grid
-squares
-square
+untangling cord
+setting it up
+connecting it to tv
+reception
+to play games
+no where to put it
+purple and beige
+white brown
 to land
-couches
-couch and table
+read book
+eating hamburger
 seats
 63
 late 60s
+motor scooters
+pouncing on sundae
+trying to get food
+top 1
+trying to stand
+jumping up
 hearts
-on top of rug
+sandpit
 by coat rack
 has fallen
 he sat down
@@ -3266,130 +6070,267 @@ very old
 seventy
 67
 crog
+lady is holding it
+throwing to dog
+bouncing it
+food inside picnic basket
 97 degrees
 chilly
 80 degrees
 75 f
 70 degrees
-underneath
+towards its back
+bird flying
+hawk chasing mouse
+on back of sofa
+on back of couch
+on top couch
+no black haired boy
 doorknob
 door knob
 dance
+bears
+steak and hamburger
+toward soccer ball
+akimbo
 french bulldog
 brown one
+brown and white dog
 woods
-red with yellow trim
+red gold
+on middle tree
 on right side of pic
-rd
-it is red
+swallow
+dog meat
+4 plus pie tin
+his right hand
+right 1
+2nd bottle
+partners
+husband and wife
+on floor by window
+to left of door
 middle floor
-center of room
+bread and green bottle
+bread and bottle
+wine bread
 microfiber
 suede
 red fabric
 leather
 cats gray
+on right side of photo
+red and tan
+tan and red
+tan red
+red tan
+nothing from left
+leafs
+apple pie
+pie cutter
+taco
+at something cat did
 hanging from bar
-swinging on bars
 too many pillows
 stay away from cat
-comfortable
-because she wants to
 what she sees
 what to watch
 her house
 clear skies
-soffa
+mental
+making food to eat
 picture of horizon
 naptime
 they are sleeping not playing
+not all
+sandbox edge
+bucket and scoop
 laughing at cat
-she is playing
 cats playing
 picture of herself
 posing dramatically
-reaching for cat
+25 years
+fairly old
 no couch
+to feed duck
+trying to feed duck
+shooting duck
+gesturing to duck
+so duck will come to him
+to call duck
 he is mad
 spy
+top of bookcase
+plush toy
+who gets toy
 hot dog on plate
 bag of groceries
+xhair
 throwing soccer ball
-playing ball
-holding ball
 light beige
-boy in red shirt
+near bushes
+in bushes far left
+white bird
+swallows
+kung fu
+jumping jack
+eating mushrooms
+hiding by tree
+across from sofa
+left side under painting
+big window
+taller one
+helping her
+boy helping her
+pulling down
+he is helping her stand up
 to far right
-right of fireplace
 right upper corner
 right side of fireplace
+warning man
+on dinner table
+center of table
+to see pond
+something scared him
+very high
+very good
 its sunset
 it is dusk
 later in day
-setting
 it is afternoon
 pot plant
+in middle of picture
 in park on grass
-10 minutes
-5 minutes
-30 minutes
+playing on sofa
+playing with each other
+40
+blue brown
+towards dog
+toward puppy
+to her room
+to fireplace
+to dog
+red with yellow
+summer vacation
+pup
+in hand of man on left
+man hand
+in his hands
 45 min
-long time
+woman and boy
+woman and bike
+bike and woman
+woman walking bike
+woman and bicycle
+to have fun
 food on table is pie
-her lap
+boy not eating
+she is not upset
+not able to eat
+partner not there
+her salad
+no one wants lunch
+1 standing in tree
+upper left
+1 standing on tree to left
+1 climbing tree
+deer on bottom left corner
+behind blue chair on right
+behind chai
 chikuwa
-on arm of couch
 on arm of chair
-chair arm
-wood logs
+lower center of photo
+in front of stool
+asleep on floor
+next to ottoman
+by chair
+on ground under woman
+ground 5
+yes there is
+end of rug
+on edges of rug
+left and right ends
+on left and right edge
+sides
+right and left edges
+fire box
+memories
+experiences
+something happy
+average height
+9 ft
 koi and mallard
 rug on floor
-on armchair
+playing with pet
+she loves her cat
+despair
+complacent
+grumpy
 in both chairs
-in chairs
+attention
+play with girl
+what girl has
+to be pet
+she looks happy
+left hand
 something he saw on tv
+red white brown purple
+no girl in image
 old couple
 older couple
 playing with her dollhouse
 building house
-playing with dollhouse
-playing house
+fi
+their attire
+there wearing sweaters
+there is fire
+long sleeves
+because of fire burning
+fire is going
+fire lit
+people are content
+white duck and pigeon
+duck and pigeon
+pigeon and duck
+brown bird
 owl in tree
 owk
 she likes watermelon
 color of moped is red
+dogs nose
 platter of food
-snack
-footrest
-hassock
-small stool
 ref
-grandma and granddaughter
+coming back
+parents walking
+his parents forgot him
+no parents
 old woman and girl
-grandma and girl
 girl and old woman
 old lady and girl
-girl and woman
-chasing yarn
 playing with ball of yarn
 cat tossed it
+marshmallows sticks
+standing on its hind legs
 someone parked it there
 parking
 leaning against it
-leaning
 standing parked
 hedgehog
+green picture
+abstract painting
 playing on seesaw
-seesawing
 playing seesaw
 very safe
 crow
+there are 3
+in front of old man
 tour guide explaining art
 art gallery
 art museum
+near sandbox
+between boy and bush
 man is holding tongs
-in front of guy
-next to boy
+stroking her pussy
 sitting on ground
 disk and drink
 drink and dvd
@@ -3397,6 +6338,8 @@ soda and cd
 can of soda and dvd
 soda and video game
 compact disk in one and soda can in other
+squirrel and bee hive
+beehive and squirrel
 going to slide down
 ready to slide
 catching son
@@ -3405,10 +6348,22 @@ catching baby from slide
 catching baby
 catching child
 underneath windows
-next to table
 her father
-boy in red
-beach
+enjoying day
+flying nearby
+obstacle race
+obstacle course
+hurdles
+jumping logs
+boy with dark shirt
+man in black
+boy with black shirt
+does
+dotted
+gray and beige
+to play catch
+for playing
+so many people can play
 book is on table to left
 dusting
 touching painting
@@ -3418,14 +6373,22 @@ belly
 watching rabbit
 calling animals
 playful
-surprised
 nervous
 stressed
 somber
-near bench
-corn dogs
-catching football
+left boy
+boy in white shirt
+boy playing football
+bushes and tree
+floral prints
+bottle of wine and picnic basket
+sitting cross legged
 tossing football
+frog in water
+there is no cat
+in scene is baby
+atop monkey bars
+on monkey bar
 honey bees
 hornets
 to put fire out before they leave
@@ -3436,55 +6399,132 @@ safety
 squirrels and frog
 wild animals
 plants and animals
+pie wine
 playing on jungle bars
+front of tree
 lcd
-sony
 on red carpet
 red checkered
 checker red white
 on grass running towards girl
 next to blanket
 running to girl
-himself
+getting off slide
 fruit vegetables
 between sidewalk
 corner of sidewalk
 between skater and woman
 in corner of sidewalks
-next to man
+behind ladies
+braid
+flat shoes
+ballerinas
+pumps
+heels
+dress casual
+ballet flats
 girl and mouse
 little girl with mouse
 ride bicycle
 wood and iron
-in chair
 on street
+canada goose
+approaching deer
+walking to deer
+watching deer
+they have none
+rental unit
+new house
+they just moved in
+none to hang
+did not have any pictures
+cat in chair
+frog and lily pad
+lily pad and frog
+at pond
 no one else
 time to go
 hot outside
+bird watching
+small birds
+finches
+songbirds
+wild birds
+woodpeckers
+sparrows
+passerines
+hooks
+whole pie
+pumpkin
+blueberry
+thong
 her toy
-school
 left side of rug
 tree in back right
 in little tree
 in tree on right
+yellow and green
+rat and corn
 sand and dog
+it cold in this room
+bike on right
+looking at scenery
+waving at deer
 playing with puppy
 robert and car
 petting tail
 pulling its tail
+guy taking nap
+pointing at tree
 discs
 disks
+one is lower than other
+they are diagonally from each other
+all horizontal
+uneven
+gray color
+to his master
+towards people
+to people
+to man
+can of soda
+pop can
+guy with bike
+boy on bike
+sidewalk gone
+plant and tablecloth
+pot with plant
 5 mice
+something they see on tv
+what they see on tv
+game on tv
+football game
+sanford and son
+something exciting
 white and pink
-white and purple
 white gray
-herself
+footrests
+stools legs
+chairs and foot rests
+stools and 2 plants
 memory
-likes it
+no bench
+liquid
+top of rug
+what is on rug
+himalayan
+riding moped
+riding vespa
+dozens
+around tv
+beside tv stand
+beside tv
+on side of tv
+sitting lady
+left woman
+woman in white top
+lady in white shirt
 no pictured
-on top of fireplace
-teacup
 tea pot platter
 yea cups
 teapot
-tea cup
