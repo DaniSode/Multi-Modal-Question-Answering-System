@@ -216,7 +216,7 @@ class ImgEncoder(nn.Module):
     def __init__(self, embed_dim):
 
         super(ImgEncoder, self).__init__()
-        self.model = models.vgg19(pretrained=True).features.to(device).eval()
+        self.model = models.vgg19(pretrained=True)
         in_features = self.model.classifier[-1].in_features
         self.model.classifier = nn.Sequential(*list(self.model.classifier.children())[:-1]) # remove vgg19 last layer
         self.fc = nn.Linear(in_features, embed_dim)
