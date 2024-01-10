@@ -91,9 +91,8 @@ class VQADataset(Dataset):
         qu_id = int(self.input_data['qu_id'].iloc[idx])
         qu_tokens =  self.input_data['qu_tokens'].iloc[idx]
         qu2idx = np.array([self.qu_vocab.word2idx('<pad>')] * self.max_qu_len)
-        print(len(self.qu_vocab))
-        print(self.qu_vocab)
-        print(qu2idx)
+        for token in qu_tokens:
+            print(token)
         qu2idx[:len(qu_tokens)] = [self.qu_vocab.word2idx(token) for token in qu_tokens]
         sample = {'image': img, 'question': qu2idx, 'question_id': qu_id}
         print(len(self.ans_vocab))
@@ -161,8 +160,6 @@ class Vocab:
 
     def load_vocab(self, vocab_file):
         with open(vocab_file) as f:
-            for idx, v in enumerate(f):
-                print(idx)
             vocab = [v.strip() for v in f]
         return vocab
 
