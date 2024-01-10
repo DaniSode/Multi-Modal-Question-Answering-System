@@ -156,6 +156,9 @@ class Vocab:
         self.vocab2idx = {vocab: idx for idx, vocab in enumerate(self.vocab)}
         self.vocab_size = len(self.vocab)
 
+    def __len__(self):
+        return len(self.vocab)
+
     def load_vocab(self, vocab_file):
 
         with open(vocab_file) as f:
