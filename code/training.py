@@ -96,10 +96,10 @@ class VQADataset(Dataset):
 
         qu2idx[:len(qu_tokens)] = [self.qu_vocab.word2idx(token) for token in qu_tokens]
         sample = {'image': img, 'question': qu2idx, 'question_id': qu_id}
+        print(self.input_data['valid_ans'].iloc[idx])
         ans2idx = [self.ans_vocab.word2idx(ans) for ans in self.input_data['valid_ans'].iloc[idx]]
-        print(ans2idx)
         ans2idx = random.choice(ans2idx)
-
+        print(ans2idx)
         sample['answer'] = ans2idx
 
         if self.transform:
