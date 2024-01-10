@@ -162,7 +162,7 @@ class Vocab:
     def load_vocab(self, vocab_file):
         with open(vocab_file) as f:
             for v in f:
-                print(v)
+                #print(v)
                 print(v.strip())
             vocab = [v.strip() for v in f]
 
