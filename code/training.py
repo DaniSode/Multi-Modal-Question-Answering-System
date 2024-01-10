@@ -161,7 +161,9 @@ class Vocab:
 
     def load_vocab(self, vocab_file):
         with open(vocab_file) as f:
-            vocab = [v.strip() print(idx) for idx, v in enumerate(f)]
+            for idx, v in enumerate(f):
+                print(idx)
+            vocab = [v.strip() for v in f]
         return vocab
 
     def word2idx(self, vocab):
