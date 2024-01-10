@@ -87,12 +87,16 @@ class VQADataset(Dataset):
 
     def __getitem__(self, idx):
         path = self.input_data['img_path'].iloc[idx]
+        print(path)
         img = np.array(Image.open(path).convert('RGB'))
         qu_id = int(self.input_data['qu_id'].iloc[idx])
+        print(qu_id)
         qu_tokens =  self.input_data['qu_tokens'].iloc[idx]
+        print(qu_tokens)
         qu2idx = np.array([self.qu_vocab.word2idx('<pad>')] * self.max_qu_len)
         qu2idx[:len(qu_tokens)] = [self.qu_vocab.word2idx(token) for token in qu_tokens]
         sample = {'image': img, 'question': qu2idx, 'question_id': qu_id}
+        print(len(ans_vocab))
         print(ans_vocab)
         ans2idx = [self.ans_vocab.word2idx(ans) for ans in self.input_data['valid_ans'].iloc[idx]]
         ans2idx = random.choice(ans2idx)
@@ -149,7 +153,6 @@ class Vocab:
     def __init__(self, vocab_file):
 
         self.vocab = self.load_vocab(vocab_file)
-        
         self.vocab2idx = {vocab: idx for idx, vocab in enumerate(self.vocab)}
         self.vocab_size = len(self.vocab)
 
@@ -161,15 +164,12 @@ class Vocab:
         return vocab
 
     def word2idx(self, vocab):
-        
-
         if vocab in self.vocab2idx:
             return self.vocab2idx[vocab]
         else:
             return self.vocab2idx['<unk>']
 
     def idx2word(self, idx):
-
         return self.vocab[idx]
 
 
