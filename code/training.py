@@ -89,7 +89,7 @@ class VQADataset(Dataset):
         path = self.input_data['img_path'].iloc[idx]
         img = np.array(Image.open(path).convert('RGB'))
         qu_id = int(self.input_data['qu_id'].iloc[idx])
-        qu_tokens =  self.input_data['qu_tokens'].iloc[idx]
+        qu_tokens =  ast.literal_eval.self.input_data['qu_tokens'].iloc[idx]
         print(qu_tokens)
         qu2idx = np.array([self.qu_vocab.word2idx('<pad>')] * self.max_qu_len)
         for token in qu_tokens:
