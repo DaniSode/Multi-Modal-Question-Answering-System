@@ -281,8 +281,8 @@ def train():
             question = sample['question'].to(device=device)
             label = sample['answer'].to(device=device)
             logits = model(image, question)
-            print(logits)
-            print(label)
+            print(np.shape(logits))
+            print(np.shape(label))
             loss = criterion(logits, label)
             epoch_loss['train'] += loss.item()
             # backward
