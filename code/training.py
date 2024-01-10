@@ -92,7 +92,7 @@ class VQADataset(Dataset):
         qu_tokens =  self.input_data['qu_tokens'].iloc[idx]
         qu2idx = np.array([self.qu_vocab.word2idx('<pad>')] * self.max_qu_len)
         print(len(self.qu_vocab))
-        print(self.qu_vocab[1:30])
+        print(self.qu_vocab)
         print(qu2idx)
         qu2idx[:len(qu_tokens)] = [self.qu_vocab.word2idx(token) for token in qu_tokens]
         sample = {'image': img, 'question': qu2idx, 'question_id': qu_id}
