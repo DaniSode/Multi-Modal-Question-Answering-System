@@ -87,13 +87,11 @@ class VQADataset(Dataset):
 
     def __getitem__(self, idx):
         path = self.input_data['img_path'].iloc[idx]
-        print(path)
         img = np.array(Image.open(path).convert('RGB'))
         qu_id = int(self.input_data['qu_id'].iloc[idx])
-        print(qu_id)
         qu_tokens =  self.input_data['qu_tokens'].iloc[idx]
-        print(qu_tokens)
         qu2idx = np.array([self.qu_vocab.word2idx('<pad>')] * self.max_qu_len)
+        print(qu2idx)
         qu2idx[:len(qu_tokens)] = [self.qu_vocab.word2idx(token) for token in qu_tokens]
         sample = {'image': img, 'question': qu2idx, 'question_id': qu_id}
         print(len(ans_vocab))
