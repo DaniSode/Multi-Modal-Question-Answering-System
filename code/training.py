@@ -86,20 +86,16 @@ class VQADataset(Dataset):
       
 
     def __getitem__(self, idx):
-        path = (self.input_data.loc[self.input_data['index'] == idx, 'img_path'].values[0])
-
+        path = self.input_data['img_path'].iloc[idx]
         img = np.array(Image.open(path).convert('RGB'))
-        qu_id = int(self.input_data.loc[self.input_data['index'] == idx, 'qu_id'].values[0])
-        qu_tokens =  ast.literal_eval(self.input_data.loc[self.input_data['index'] == idx, 'qu_tokens'].values[0])
-        
+        qu_id = int(self.input_data['qu_id'].iloc[idx])
+        qu_tokens =  self.input_data['qu_tokens'].iloc[idx]
         qu2idx = np.array([self.qu_vocab.word2idx('<pad>')] * self.max_qu_len)
-
         qu2idx[:len(qu_tokens)] = [self.qu_vocab.word2idx(token) for token in qu_tokens]
         sample = {'image': img, 'question': qu2idx, 'question_id': qu_id}
-        print(self.input_data['valid_ans'].iloc[idx])
+        print(ans_vocab)
         ans2idx = [self.ans_vocab.word2idx(ans) for ans in self.input_data['valid_ans'].iloc[idx]]
         ans2idx = random.choice(ans2idx)
-        print(ans2idx)
         sample['answer'] = ans2idx
 
         if self.transform:
