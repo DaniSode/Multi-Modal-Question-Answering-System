@@ -9,7 +9,7 @@ DONT RUN preprocessing without downloading the dataset correctly. Skip to 6a. if
 2. Put annotations in dataset\ann\ --> into train and val annotations respective. Call the files "ann_'whicheverset'.json". (Whicheverset = 'train' or 'val').
 3. Put questions in dataset\qst\ --> into test, train and val questions respective. Call the files "multi_qst_'whicheverset'.json" and "open_qst_'whicheverset'.json". (Whicheverset = 'test', 'train' or 'val').
 4. Put images in dataset\ann\ --> into test, train and val images respective. (No need to change names.) 
-5. Run "preprocessing.ipynb"
+5. Run "preprocessing.ipynb" (make sure there is no files in "preprocessed\data")
 
 Otherwise if the preprocessed data already exists -->
 6a. Run "training.py"
@@ -24,3 +24,5 @@ Logged loss: --> log
 Note: The jupyter files works good on windows, the ".py" files works on linux. 
 
 (To preprocess and evaluate on windows the paths and preprocess paths might need a change from frontslash to backslash.) 
+
+Results from pretrained 50 epochs model can be found in the "results" folder along with a notebook to plot the results and save as image. 
