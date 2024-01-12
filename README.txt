@@ -25,4 +25,4 @@ Note: The jupyter files works good on windows, the ".py" files works on linux.
 
 (To preprocess and evaluate on windows the paths and preprocess paths might need a change from frontslash to backslash.) 
 
-Results from pretrained 50 epochs model can be found in the "results" folder along with a notebook to plot the results and save as image. 
+The loss results from 50 epochs trained model can be found in the "results" folder along with a notebook to plot the results and save as image. 
